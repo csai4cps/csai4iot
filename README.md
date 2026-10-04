@@ -1,6 +1,6 @@
 # CSAI-4-IoT — código e resultados da tese
 
-Material experimental organizado por campanha, preservado em 4 de outubro de 2026. Repositório preparado para acesso privado.
+Material experimental organizado por campanha, preservado em 4 de outubro de 2026. Repositório público, conforme autorização do autor.
 
 ## Estrutura
 
@@ -42,4 +42,4 @@ Nenhum notebook foi reexecutado para produzir esta distribuição. As campanhas 
 
 ## Acesso e citação
 
-Esta distribuição foi preparada como privada. Não concede autorização de redistribuição das bases nem uma licença de terceiros. Referências científicas e origem dos datasets devem ser citadas conforme a tese. Para associar esta distribuição à versão final da tese, use um commit ou release fixo do repositório, e não somente um link para uma branch mutável.
+Esta distribuição é disponibilizada publicamente pelo autor. Não concede autorização de redistribuição das bases nem uma licença de terceiros. Referências científicas e origem dos datasets devem ser citadas conforme a tese. Para associar esta distribuição à versão final da tese, use um commit ou release fixo do repositório, e não somente um link para uma branch mutável.
