@@ -1,0 +1,10 @@
+Order,Source_File,Seed,Rounds,Trust_Threshold,Clients,Combined_Dataset,Source_As_Model_Feature
+1,NBaIoT_Danmini_Doorbell_Balanced2K.csv,43,100,0.05,10,NBaIoT_MixedDevice_9Sources_Balanced,False
+2,NBaIoT_Ecobee_Thermostat_Balanced2K.csv,43,100,0.05,10,NBaIoT_MixedDevice_9Sources_Balanced,False
+3,NBaIoT_Ennio_Doorbell_Balanced2K.csv,43,100,0.05,10,NBaIoT_MixedDevice_9Sources_Balanced,False
+4,NBaIoT_Philips_B120N10_Baby_Monitor_Balanced2K.csv,43,100,0.05,10,NBaIoT_MixedDevice_9Sources_Balanced,False
+5,NBaIoT_Provision_PT_737E_Security_Camera_Balanced2K.csv,43,100,0.05,10,NBaIoT_MixedDevice_9Sources_Balanced,False
+6,NBaIoT_Provision_PT_838_Security_Camera_Balanced2K.csv,43,100,0.05,10,NBaIoT_MixedDevice_9Sources_Balanced,False
+7,NBaIoT_Samsung_SNH_1011_N_Webcam_Balanced2K.csv,43,100,0.05,10,NBaIoT_MixedDevice_9Sources_Balanced,False
+8,NBaIoT_SimpleHome_XCS7_1002_WHT_Security_Camera_Balanced2K.csv,43,100,0.05,10,NBaIoT_MixedDevice_9Sources_Balanced,False
+9,NBaIoT_SimpleHome_XCS7_1003_WHT_Security_Camera_Balanced2K.csv,43,100,0.05,10,NBaIoT_MixedDevice_9Sources_Balanced,False

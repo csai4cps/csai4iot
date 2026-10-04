@@ -1,0 +1,2 @@
+Run,Mode,Seed_Start,Seed_End,Seeds,Calibration_Seed_Excluded,Trust_Threshold,Rounds,Attack,Profiles,Partitions,Strategies,Dataset,Status
+CSAI4IoT_Cumulative_Final_BaseVsExtreme_100R_Seeds43_52,FINAL,43,52,10,42,0.05,100,Cumulative,"Base,Extreme","IID,NonIID_Dirichlet",9,NBaIoT_MixedDevice_9Sources_Balanced,COMPLETED
