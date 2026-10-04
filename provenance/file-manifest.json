@@ -1,0 +1,316 @@
+{
+  "archived_at": "2026-10-04",
+  "hash_scope": "bytes dos arquivos nesta distribuição; não hash contemporâneo de execução",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 66,
+      "sha256": "57cdfc9444f1bc5bd048ecf22fa062a65e577d7b87b9f9435ebfe531eade2bae"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3326,
+      "sha256": "83e0f1e904af7ed11f4ed91fd7a6249f4e117c2daad136fbc644a3b70a4ab21c"
+    },
+    {
+      "path": "analysis/ablation/README.md",
+      "bytes": 2292,
+      "sha256": "3352af6c1c11c427a4730d5e3b23486a78d76c4d55a6e05af41c14d1ff75b1c0"
+    },
+    {
+      "path": "analysis/ablation/contrastes_finais.csv",
+      "bytes": 8729,
+      "sha256": "41eb4d5dd569a7dd4cf4a01c115228cbb6b3a6e25af23a51debfbdd3513accc1"
+    },
+    {
+      "path": "analysis/round-confidence/README.md",
+      "bytes": 1776,
+      "sha256": "1204cc54b11ddfd62cd0ef32975bdc4113e1b820cfcc7be10ef6f86ab6a9980b"
+    },
+    {
+      "path": "analysis/round-confidence/intervalos_por_rodada.csv",
+      "bytes": 1470967,
+      "sha256": "45a168524c245c4d7cdfa287ce1f6dd8f04205948016af87b853f04e8c42ae8a"
+    },
+    {
+      "path": "analysis/temporal/README.md",
+      "bytes": 2099,
+      "sha256": "6262454113d163d8f74bba27431b9ff4875570fc7b8bf04458d3633f514a0818"
+    },
+    {
+      "path": "analysis/temporal/selected-seed43.json",
+      "bytes": 2612725,
+      "sha256": "418a60d4f1adab305c66e9077fa55f785fa1571a43ef76cb5e3f681d86dead84"
+    },
+    {
+      "path": "code/audit-b-d/CSAI4IoT_DatasetB_Auditoria_e_Benchmark.ipynb",
+      "bytes": 189686,
+      "sha256": "919f0c74941f0b80ca175dc117d8dce74fbbf0d0467b7ab2798bd324d79759e1"
+    },
+    {
+      "path": "code/audit-b-d/CSAI4IoT_DatasetD_Auditoria_e_Benchmark.ipynb",
+      "bytes": 189567,
+      "sha256": "2c7cb958ad018296b5fabe33308d1f7551759450ff45018cae346ef9105e6f0a"
+    },
+    {
+      "path": "code/cumulative-base-extreme/CSAI4IoT_Cumulative_Final_BaseVsExtreme_100R_Seeds43_52.ipynb",
+      "bytes": 281473,
+      "sha256": "8dcb9abf4192e560309e47fbe75a3b48a52f6ddd1c6144107a71a81db994c6f1"
+    },
+    {
+      "path": "code/dataset-a/CSAI4IoT_DatasetA_Benchmark_Final.ipynb",
+      "bytes": 186016,
+      "sha256": "f9b3e45f1351cd5f7ee12d376c7dde339aa180eee40fc8b6316c5a949a312aaf"
+    },
+    {
+      "path": "code/dataset-c/CSAI4IoT_DatasetC_Benchmark_Complementar.ipynb",
+      "bytes": 189737,
+      "sha256": "c7c5f6e786c5fb772902c9cbeddb849abb76e98ed5e0c1f3d74eda69c1ab6249"
+    },
+    {
+      "path": "code/nbaiot-main/CSAI4IoT_NBaIoT_MixedDevice_9Sources_100R_Seeds43_52_ThesisPressure.ipynb",
+      "bytes": 332941,
+      "sha256": "6ef29dfb7e64acbc0e3389787cf0d662c7facb57658d01e3614780f7f1007e4f"
+    },
+    {
+      "path": "data/audit-b-d/Dataset_B_input.csv",
+      "bytes": 178232,
+      "sha256": "7a0200da7e511624c0ef9db9114890aac72cbc6b7a4b62aa24178ddf66f66f3e"
+    },
+    {
+      "path": "data/audit-b-d/Dataset_D_input.csv",
+      "bytes": 11354,
+      "sha256": "55626b65b9bbc4b85dae46ef1a84382f4f77f4ee52d673b9e9a8ef129df20499"
+    },
+    {
+      "path": "data/dataset-a/Dataset_A_CPS-NetFlow-IDS.csv",
+      "bytes": 1282415,
+      "sha256": "7d5c0cff6701ccb59a865a902dd5a5f423e02455b5a69f4fa6343a484170f113"
+    },
+    {
+      "path": "data/dataset-c/Dataset_C_input.csv",
+      "bytes": 65291,
+      "sha256": "3c4d626a44580b20ce3bdfad3b6156363f72f8bde7034f1522099daf7b4f054e"
+    },
+    {
+      "path": "docs/REPRODUCIBILITY.md",
+      "bytes": 2670,
+      "sha256": "2703ddefa7aeb2b2977b661c2d1efd84eb1b7879061502c75cffccb996102e43"
+    },
+    {
+      "path": "provenance/dataset-a-run-manifest.json",
+      "bytes": 2399,
+      "sha256": "8108db7b86ae8ca7c396ff00b88b55fbb8133f1ed6194f14a6b60222360efe9f"
+    },
+    {
+      "path": "provenance/dataset-c-run-manifest.json",
+      "bytes": 1781,
+      "sha256": "9a24478bfcd5fea3e5da7919984702b11110da7cb41c76ee857547027bb2f7d6"
+    },
+    {
+      "path": "provenance/notebook-identifiers.json",
+      "bytes": 756,
+      "sha256": "05a4d14806e3d80566305b93525e01f2ad6db4e25fa76f8ad8694b1d44eb2970"
+    },
+    {
+      "path": "provenance/source-index.json",
+      "bytes": 7146,
+      "sha256": "cdf9113f6f0b8fb40a7fa19485551ae1e0921de5c0c0cd16015d38d4fc7ec090"
+    },
+    {
+      "path": "results/cumulative-base-extreme/RUN_COMPLETED.csv",
+      "bytes": 318,
+      "sha256": "c25bb9db92c346dffa146a2e7d82cf139c68efe1ae86d8e8498e17a4fca18f12"
+    },
+    {
+      "path": "results/cumulative-base-extreme/cumulative_base_vs_extreme_statistics.csv",
+      "bytes": 11995,
+      "sha256": "72e53c8ef00058ee83c6c1d96e7e959ee8d39d160051aae29da612a6cf9ec3eb"
+    },
+    {
+      "path": "results/cumulative-base-extreme/cumulative_base_vs_extreme_thesis_focus_adaptive.csv",
+      "bytes": 2582,
+      "sha256": "c5585ed6d727a2cea0e85ee41e618e72e0ba3edf34d15cce1b82bb2f488d225e"
+    },
+    {
+      "path": "results/cumulative-base-extreme/cumulative_final_metrics_by_seed.csv",
+      "bytes": 75406,
+      "sha256": "e8908fcd2e718ccf87c2a0d1f98cb8e25a01fdc4c1d744c1e0395bb43543d2b6"
+    },
+    {
+      "path": "results/cumulative-base-extreme/cumulative_stress_breakpoints_by_seed.csv",
+      "bytes": 86077,
+      "sha256": "c05147e58ceb80153a795c0be0386e3eae727f70f316a7a36612e42f31a8dca5"
+    },
+    {
+      "path": "results/cumulative-base-extreme/cumulative_stress_profile.csv",
+      "bytes": 5319,
+      "sha256": "96fcc87a7f6135f7e9f99e14657b9b8cb8fd4cfa5c0f20d9c0b2197ffa9c81ee"
+    },
+    {
+      "path": "results/cumulative-base-extreme/cumulative_stress_summary.csv",
+      "bytes": 9025,
+      "sha256": "beac4c1b58c9089a2ce56acd2bd3f10c8cfced20503520fcc2ddd1a115612fcf"
+    },
+    {
+      "path": "results/cumulative-base-extreme/cumulative_temporal_metrics_by_seed.csv",
+      "bytes": 21600,
+      "sha256": "87a7a13e6de1e58894c6f7e60e2e3ebb1c9ec14e0e7dc96f9480d5076bf26aaf"
+    },
+    {
+      "path": "results/cumulative-base-extreme/execution_report_all_profiles.csv",
+      "bytes": 817,
+      "sha256": "29086aa4b534f2a2ab3150731c5e1a91342fee04c42165187b5f8db80db29c68"
+    },
+    {
+      "path": "results/cumulative-base-extreme/harmonization_manifest.csv",
+      "bytes": 17607,
+      "sha256": "e5f22344cb111ea64987d193a6ffcbaa300bbd38d4e433dbf46cd93781f388e4"
+    },
+    {
+      "path": "results/cumulative-base-extreme/mixed_device_source_manifest.csv",
+      "bytes": 1087,
+      "sha256": "641dee4111df1fbaf3840d66cef49f6bb4836e2054e4a197b6f9b5163b0e5921"
+    },
+    {
+      "path": "results/cumulative-base-extreme/statistics/descriptive_ci95.csv",
+      "bytes": 42105,
+      "sha256": "e57d697b3fe1592969e9c743b6ffdf8c6face6c7e2d2bac82a026728dca376ff"
+    },
+    {
+      "path": "results/cumulative-base-extreme/statistics/friedman_tests.csv",
+      "bytes": 2293,
+      "sha256": "6b2cc5fbc174a8f8349961103427b0dbeda0c6223c038cb819955e5c07b4cd1b"
+    },
+    {
+      "path": "results/cumulative-base-extreme/statistics/metrics_by_seed.csv",
+      "bytes": 74397,
+      "sha256": "c8a504405bd30ff6d37fece5ba5e90bcf7f97f793316d0bd91c778c76d128e48"
+    },
+    {
+      "path": "results/cumulative-base-extreme/statistics/thesis_summary_ci95.csv",
+      "bytes": 33609,
+      "sha256": "a288314ae50c7910e82f475d1dde98e44a9c48bfb7edaedc7ddb8f42e96b4d97"
+    },
+    {
+      "path": "results/cumulative-base-extreme/statistics/wilcoxon_holm_effect_sizes.csv",
+      "bytes": 134473,
+      "sha256": "fbca7fb4f3f2992eb026662ecd2b134dce553b5e57b66ebbce6233493e7a305c"
+    },
+    {
+      "path": "results/cumulative-base-extreme/thesis_pressure_profile.csv",
+      "bytes": 241,
+      "sha256": "e4d035e0d21141f6fe23d4e0743545a9235a8639fa35481f74d6cc2a8628497a"
+    },
+    {
+      "path": "results/dataset-a/friedman.csv",
+      "bytes": 3806,
+      "sha256": "22c2405b13527746ca6c118211b457548d550a7002ddf378bd42097c322b559c"
+    },
+    {
+      "path": "results/dataset-a/metrics_by_seed.csv",
+      "bytes": 133288,
+      "sha256": "0628ebd0c720741b38dfe012e619aa6b4ae9dcfdaab0ae9a8a2ffac539663ecb"
+    },
+    {
+      "path": "results/dataset-a/summary_ci95.csv",
+      "bytes": 59804,
+      "sha256": "071c46cbe634356dbf20667ca24c4b48928dc3e223e039ccf3cba06db5fafa62"
+    },
+    {
+      "path": "results/dataset-a/wilcoxon_holm.csv",
+      "bytes": 246080,
+      "sha256": "b61d11e1eb8df4b2d0edc9e8410c050e7ed3c1d537f8c95d97af6ca19d892ab1"
+    },
+    {
+      "path": "results/dataset-c/friedman.csv",
+      "bytes": 3682,
+      "sha256": "580fd3044f16a7e5f2b0e2fbf925dfe79803c082f3f45f9ffe8f6bc0061d9383"
+    },
+    {
+      "path": "results/dataset-c/metrics_by_seed.csv",
+      "bytes": 110971,
+      "sha256": "47b68b471b9c95ec640b7f2eadaff6840bdf7760fb34a17cf6aca477fd3ba512"
+    },
+    {
+      "path": "results/dataset-c/summary_ci95.csv",
+      "bytes": 60205,
+      "sha256": "d301b2a303eb05103fb3f442093de20a6931aecd20208e8b204e3594c343ffb7"
+    },
+    {
+      "path": "results/dataset-c/wilcoxon_holm.csv",
+      "bytes": 233128,
+      "sha256": "4420f1428a8d98c758f13aaa499c1df29d3458eb84e4118b2c41cdac40eb6774"
+    },
+    {
+      "path": "results/nbaiot-main/execution/Cumulative_IID.csv",
+      "bytes": 328,
+      "sha256": "db4517a07b1305f6686df30204c22f575b6e5d17a3a646769f80fe136bd1052f"
+    },
+    {
+      "path": "results/nbaiot-main/execution/Cumulative_NonIID_Dirichlet.csv",
+      "bytes": 348,
+      "sha256": "137ddf4c5cd5402427c93215b32b8883b993f4f8ccc0d5ddcc0d559d73b28dcf"
+    },
+    {
+      "path": "results/nbaiot-main/execution/OnOff_IID.csv",
+      "bytes": 329,
+      "sha256": "4c4b74592800a0ebf0eb660dad6a9777797cc331801b6e3545975453e1556831"
+    },
+    {
+      "path": "results/nbaiot-main/execution/OnOff_NonIID_Dirichlet.csv",
+      "bytes": 345,
+      "sha256": "b3491022125a1e450006b7b5ffb3f68325072c4ead33e1688fac06b26a1199f9"
+    },
+    {
+      "path": "results/nbaiot-main/execution/Scaling_IID.csv",
+      "bytes": 337,
+      "sha256": "cd3c7175d69513b31d2f6394fdc6d16cfc02f2ec3fdce58910b54d392dc6dc8e"
+    },
+    {
+      "path": "results/nbaiot-main/execution/Scaling_NonIID_Dirichlet.csv",
+      "bytes": 353,
+      "sha256": "83096edb959694a5394d0e9aa742f0dd059f6be15f1f2f38fd06ab3a43e968b4"
+    },
+    {
+      "path": "results/nbaiot-main/execution/Sybil_IID.csv",
+      "bytes": 330,
+      "sha256": "eee16b60c2ec1e858211c69a68b0a5a5d9d012378a167260aa01623096557b35"
+    },
+    {
+      "path": "results/nbaiot-main/execution/Sybil_NonIID_Dirichlet.csv",
+      "bytes": 346,
+      "sha256": "7743d5813cdbf9451fa85fb665f99436f3203f9abe2cda8afbe872b2e66a6b62"
+    },
+    {
+      "path": "results/nbaiot-main/statistics/descriptive_ci95.csv",
+      "bytes": 80753,
+      "sha256": "eacd308a271c599457b351e007922fbd1193b66e4b6b4c7acde2064bfb3f6963"
+    },
+    {
+      "path": "results/nbaiot-main/statistics/friedman_tests.csv",
+      "bytes": 4155,
+      "sha256": "3b37afc8f5707bbd61cfc2394da02503458182eaabe976a4fd4baa0006764604"
+    },
+    {
+      "path": "results/nbaiot-main/statistics/metrics_by_seed.csv",
+      "bytes": 140925,
+      "sha256": "41aba630a83bf5603625a9f243d7820ef987326f4761a045a9cd2c3ab5f2757c"
+    },
+    {
+      "path": "results/nbaiot-main/statistics/thesis_summary_ci95.csv",
+      "bytes": 63959,
+      "sha256": "af0bd2943b58da17bda30707dd4e91e2d2ae589318355136ff2030c5142f038e"
+    },
+    {
+      "path": "results/nbaiot-main/statistics/wilcoxon_holm_effect_sizes.csv",
+      "bytes": 259086,
+      "sha256": "3c3944e0c4e700c776b9d9da330f66394934891598a76986c70de666c9842501"
+    },
+    {
+      "path": "scripts/verify_integrity.py",
+      "bytes": 733,
+      "sha256": "8a58100e2365be4d3a11b7d28b303e711a2b5b475f71364099254ea771c55fba"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "archived_at": "2026-10-04",
+  "visibility": "private",
+  "note": "Cópias preservadas com saídas e código; sem hash contemporâneo do código executado nem ambiente original integral.",
+  "notebooks": [
+    {
+      "campaign": "nbaiot-main",
+      "url": "https://drive.google.com/file/d/1tcp9DihcnD0bPDdypY1CIg1W35_6_ZRv/view",
+      "sha256": "6ef29dfb7e64acbc0e3389787cf0d662c7facb57658d01e3614780f7f1007e4f"
+    },
+    {
+      "campaign": "cumulative-base-extreme",
+      "url": "https://drive.google.com/file/d/1M_GNBlnV0b9qkeQduwMxDSIXhGS1A-rm/view",
+      "sha256": "8dcb9abf4192e560309e47fbe75a3b48a52f6ddd1c6144107a71a81db994c6f1"
+    }
+  ],
+  "results": [
+    {
+      "path": "results/nbaiot-main/statistics/thesis_summary_ci95.csv",
+      "source": "https://drive.google.com/file/d/1yZa4RnfEMxWrdRDn8X-wvbq_Ncf2c0F1/view?usp=drivesdk"
+    },
+    {
+      "path": "results/nbaiot-main/statistics/wilcoxon_holm_effect_sizes.csv",
+      "source": "https://drive.google.com/file/d/11ygAzoRPYroPuEy404zegu5GsSxzg751/view?usp=drivesdk"
+    },
+    {
+      "path": "results/nbaiot-main/statistics/friedman_tests.csv",
+      "source": "https://drive.google.com/file/d/1FmrOGXAOgynKKYHQZehFd4_mSXzmCO1I/view?usp=drivesdk"
+    },
+    {
+      "path": "results/nbaiot-main/statistics/descriptive_ci95.csv",
+      "source": "https://drive.google.com/file/d/1AEKT7YGcboAu68m7kOXmfLdfceKtHa5y/view?usp=drivesdk"
+    },
+    {
+      "path": "results/nbaiot-main/statistics/metrics_by_seed.csv",
+      "source": "https://drive.google.com/file/d/1xeWBFN1yaFTQut6fTRg3-JfCQ6PDd7M3/view?usp=drivesdk"
+    },
+    {
+      "path": "results/cumulative-base-extreme/statistics/thesis_summary_ci95.csv",
+      "source": "https://drive.google.com/file/d/15LtUsWCLF2CAIoAbOqd4e3F1ccrQ0Olx/view?usp=drivesdk"
+    },
+    {
+      "path": "results/cumulative-base-extreme/statistics/wilcoxon_holm_effect_sizes.csv",
+      "source": "https://drive.google.com/file/d/1AS5-St6Zjgj1Jm_ZkXByH8oJCjKuklp8/view?usp=drivesdk"
+    },
+    {
+      "path": "results/cumulative-base-extreme/statistics/friedman_tests.csv",
+      "source": "https://drive.google.com/file/d/1M3x5A_6pWKYPk-Zhoak0UzmC-O1mjWVK/view?usp=drivesdk"
+    },
+    {
+      "path": "results/cumulative-base-extreme/statistics/descriptive_ci95.csv",
+      "source": "https://drive.google.com/file/d/1173z1u0C1Cu0hRyk3cUP3EJ5B2xSgqHY/view?usp=drivesdk"
+    },
+    {
+      "path": "results/cumulative-base-extreme/statistics/metrics_by_seed.csv",
+      "source": "https://drive.google.com/file/d/1ezSqyqO8qvxlWcUHx5O9wAIcLOg58Ro1/view?usp=drivesdk"
+    },
+    {
+      "path": "results/nbaiot-main/execution/OnOff_NonIID_Dirichlet.csv",
+      "source": "https://drive.google.com/file/d/1MRRgHL_7mtYfJCj5CZvx3Tl7ULN_AJ0J/view?usp=drivesdk"
+    },
+    {
+      "path": "results/nbaiot-main/execution/OnOff_IID.csv",
+      "source": "https://drive.google.com/file/d/1lbmZDdoq85CM0dMxwf8po9lSN9WJNIax/view?usp=drivesdk"
+    },
+    {
+      "path": "results/nbaiot-main/execution/Sybil_NonIID_Dirichlet.csv",
+      "source": "https://drive.google.com/file/d/1MBpsNfoX4lNHN_63a9yydjtUE5eNjAqZ/view?usp=drivesdk"
+    },
+    {
+      "path": "results/nbaiot-main/execution/Sybil_IID.csv",
+      "source": "https://drive.google.com/file/d/1NyjvAOrgaKO2_11qz5mAuxg5F-x5QOHQ/view?usp=drivesdk"
+    },
+    {
+      "path": "results/nbaiot-main/execution/Scaling_NonIID_Dirichlet.csv",
+      "source": "https://drive.google.com/file/d/1b2Sdv4jPSGCJ47wTXefFWkcMIGQh0E8N/view?usp=drivesdk"
+    },
+    {
+      "path": "results/nbaiot-main/execution/Scaling_IID.csv",
+      "source": "https://drive.google.com/file/d/1zro5rNFjCfRo3odEEJ0D5gspmeIC1yHc/view?usp=drivesdk"
+    },
+    {
+      "path": "results/nbaiot-main/execution/Cumulative_NonIID_Dirichlet.csv",
+      "source": "https://drive.google.com/file/d/1mctFXWSpAaS3bsfm6V2cjo7mMs4v1jAi/view?usp=drivesdk"
+    },
+    {
+      "path": "results/nbaiot-main/execution/Cumulative_IID.csv",
+      "source": "https://drive.google.com/file/d/1IUPvy9zTD-hgcFJ0RpM_NbTPMFYVU_HS/view?usp=drivesdk"
+    },
+    {
+      "path": "results/cumulative-base-extreme/RUN_COMPLETED.csv",
+      "source": "https://drive.google.com/file/d/1xny8Cts_IDv2rK1KNUc5e9XQ_NoLG6tS/view?usp=drivesdk"
+    },
+    {
+      "path": "results/cumulative-base-extreme/execution_report_all_profiles.csv",
+      "source": "https://drive.google.com/file/d/17i-eYKWF7AJWk6vKeGuGr3hsgHP8Q5mj/view?usp=drivesdk"
+    },
+    {
+      "path": "results/cumulative-base-extreme/cumulative_base_vs_extreme_thesis_focus_adaptive.csv",
+      "source": "https://drive.google.com/file/d/1ib39jOYUaikAoKj0-qD7OYUxIfnW4lUi/view?usp=drivesdk"
+    },
+    {
+      "path": "results/cumulative-base-extreme/cumulative_base_vs_extreme_statistics.csv",
+      "source": "https://drive.google.com/file/d/1D2FtxJyf2Vmr2JBtVwvpFtnRR7o2Qj-J/view?usp=drivesdk"
+    },
+    {
+      "path": "results/cumulative-base-extreme/cumulative_final_metrics_by_seed.csv",
+      "source": "https://drive.google.com/file/d/176MEA2kp40qz4t3exsCMN04kSA3FI-fr/view?usp=drivesdk"
+    },
+    {
+      "path": "results/cumulative-base-extreme/cumulative_temporal_metrics_by_seed.csv",
+      "source": "https://drive.google.com/file/d/1xFMXKsQVjN0mitLdjCFaDwgFeomrYUGy/view?usp=drivesdk"
+    },
+    {
+      "path": "results/cumulative-base-extreme/cumulative_stress_summary.csv",
+      "source": "https://drive.google.com/file/d/1UoQuqTd-Lf4hmXKg8Jly1EwWTjybkSE2/view?usp=drivesdk"
+    },
+    {
+      "path": "results/cumulative-base-extreme/cumulative_stress_breakpoints_by_seed.csv",
+      "source": "https://drive.google.com/file/d/1G3jm5ujf4_2T4LpAB28UNHqaEBnQr_lj/view?usp=drivesdk"
+    },
+    {
+      "path": "results/cumulative-base-extreme/harmonization_manifest.csv",
+      "source": "https://drive.google.com/file/d/1Ay0odqVP-68IstCs6wQrJpq1Mci6wK5l/view?usp=drivesdk"
+    },
+    {
+      "path": "results/cumulative-base-extreme/mixed_device_source_manifest.csv",
+      "source": "https://drive.google.com/file/d/1m7l_Ysk4UuwX53nf4hyjoKzyRlyYxxp_/view?usp=drivesdk"
+    },
+    {
+      "path": "results/cumulative-base-extreme/cumulative_stress_profile.csv",
+      "source": "https://drive.google.com/file/d/190QWfJZMG-GF7uemnp_JjVDXDp3UWOUn/view?usp=drivesdk"
+    },
+    {
+      "path": "results/cumulative-base-extreme/thesis_pressure_profile.csv",
+      "source": "https://drive.google.com/file/d/1tm16EaIHqft2ZBEKI7xJn1gxsWKdCEfu/view?usp=drivesdk"
+    }
+  ],
+  "external_raw": [
+    {
+      "campaign": "nbaiot-main",
+      "folder": "https://drive.google.com/drive/folders/1dOCORj1QenIn5Rd-93GCBOL-9MoK8O2f",
+      "note": "Resultados originais completos, all_raw_results.csv (~40 MB), logs de clientes e arquivos ZIP."
+    },
+    {
+      "campaign": "cumulative-base-extreme",
+      "folder": "https://drive.google.com/drive/folders/1EZ9NIeVLuGLJneoiDVMmvEMixlzDppml"
+    },
+    {
+      "campaign": "dataset-a",
+      "folder": "https://drive.google.com/drive/folders/1pVno1G9TnZ7edReGqDdwzPsP1IHi05JM"
+    },
+    {
+      "campaign": "dataset-c",
+      "folder": "https://drive.google.com/drive/folders/1Savf5A50LTGBmk78asShq-0vvyg9T_JN"
+    }
+  ]
+}
