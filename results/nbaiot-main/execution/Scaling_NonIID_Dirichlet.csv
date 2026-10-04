@@ -1,0 +1,2 @@
+Dataset,Attack,Partition_Mode,Dirichlet_Alpha,Benchmark,Seeds,Seed_Start,Seed_End,Trust_Threshold,Strategies,Rounds,Rows,Features,Total_Execution_Time_Seconds,Total_Execution_Time_Minutes
+NBaIoT_MixedDevice_9Sources_Balanced,Scaling,NonIID_Dirichlet,0.5,Ataque_ModelReplacement_Scaling,10,43,52,0.05,9,100,18000,115,6476.994745248001,107.94991242080002
