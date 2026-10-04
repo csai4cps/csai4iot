@@ -1,0 +1,17 @@
+Dataset,Attack,Partition_Mode,Metric,N_Seeds_Paired,N_Methods,Friedman_Statistic,P_Value,Significant_0_05,Status
+NBaIoT_MixedDevice_9Sources_Balanced,Cumulative_Base,IID,F1_Mean_Over_Rounds,10,9,28.643555555555576,0.0003661510653751248,True,ok
+NBaIoT_MixedDevice_9Sources_Balanced,Cumulative_Base,IID,ASR_Mean_Over_Rounds,10,9,27.720930232558164,0.0005303268607068503,True,ok
+NBaIoT_MixedDevice_9Sources_Balanced,Cumulative_Base,IID,F1_Final_Round,10,9,20.403183023872664,0.008913690366010878,True,ok
+NBaIoT_MixedDevice_9Sources_Balanced,Cumulative_Base,IID,ASR_Final_Round,10,9,5.12000000000017,0.7446767708362627,False,ok
+NBaIoT_MixedDevice_9Sources_Balanced,Cumulative_Base,NonIID_Dirichlet,F1_Mean_Over_Rounds,10,9,50.068965517241416,3.963920113460444e-08,True,ok
+NBaIoT_MixedDevice_9Sources_Balanced,Cumulative_Base,NonIID_Dirichlet,ASR_Mean_Over_Rounds,10,9,21.064486830154454,0.006978084756124208,True,ok
+NBaIoT_MixedDevice_9Sources_Balanced,Cumulative_Base,NonIID_Dirichlet,F1_Final_Round,10,9,46.48478015783542,1.922229571604736e-07,True,ok
+NBaIoT_MixedDevice_9Sources_Balanced,Cumulative_Base,NonIID_Dirichlet,ASR_Final_Round,10,9,11.580817051509777,0.17090937521587965,False,ok
+NBaIoT_MixedDevice_9Sources_Balanced,Cumulative_Extreme,IID,F1_Mean_Over_Rounds,10,9,27.261926192619274,0.0006369905417691056,True,ok
+NBaIoT_MixedDevice_9Sources_Balanced,Cumulative_Extreme,IID,ASR_Mean_Over_Rounds,10,9,34.82877406281666,2.8728412004120548e-05,True,ok
+NBaIoT_MixedDevice_9Sources_Balanced,Cumulative_Extreme,IID,F1_Final_Round,10,9,37.34545454545461,9.941381488274449e-06,True,ok
+NBaIoT_MixedDevice_9Sources_Balanced,Cumulative_Extreme,IID,ASR_Final_Round,10,9,44.68292682926831,4.2258245411253873e-07,True,ok
+NBaIoT_MixedDevice_9Sources_Balanced,Cumulative_Extreme,NonIID_Dirichlet,F1_Mean_Over_Rounds,10,9,32.547008547008566,7.430338908266055e-05,True,ok
+NBaIoT_MixedDevice_9Sources_Balanced,Cumulative_Extreme,NonIID_Dirichlet,ASR_Mean_Over_Rounds,10,9,13.81029810298104,0.08684590090910503,False,ok
+NBaIoT_MixedDevice_9Sources_Balanced,Cumulative_Extreme,NonIID_Dirichlet,F1_Final_Round,10,9,33.03499469777311,6.0700485702552354e-05,True,ok
+NBaIoT_MixedDevice_9Sources_Balanced,Cumulative_Extreme,NonIID_Dirichlet,ASR_Final_Round,10,9,13.004680187207473,0.11168868263192554,False,ok
