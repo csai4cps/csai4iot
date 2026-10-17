@@ -1,0 +1,26 @@
+[
+  {
+    "attack": "OnOff",
+    "url": "https://drive.google.com/file/d/1mTm8qCvXYsqNO7QZA4EkP6c2k-F36O_H/view?usp=drivesdk",
+    "id": "1mTm8qCvXYsqNO7QZA4EkP6c2k-F36O_H",
+    "title": "Raw_Results_OnOff.csv"
+  },
+  {
+    "attack": "Sybil",
+    "url": "https://drive.google.com/file/d/19zZ6U0rKCM-KjnnXLcJQxVJgOplRSZZb/view?usp=drivesdk",
+    "id": "19zZ6U0rKCM-KjnnXLcJQxVJgOplRSZZb",
+    "title": "Raw_Results_Sybil.csv"
+  },
+  {
+    "attack": "Scaling",
+    "url": "https://drive.google.com/file/d/1iRXB6VYWXr9WCncl97R_He1pbWIbhaRA/view?usp=drivesdk",
+    "id": "1iRXB6VYWXr9WCncl97R_He1pbWIbhaRA",
+    "title": "Raw_Results_Scaling.csv"
+  },
+  {
+    "attack": "Cumulative",
+    "url": "https://drive.google.com/file/d/1Gxa3Dhgf8Ji4Kb0J0iGopLodtyOseDwU/view?usp=drivesdk",
+    "id": "1Gxa3Dhgf8Ji4Kb0J0iGopLodtyOseDwU",
+    "title": "Raw_Results.csv"
+  }
+]
