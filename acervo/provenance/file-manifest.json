@@ -8,9 +8,9 @@
       "sha256": "57cdfc9444f1bc5bd048ecf22fa062a65e577d7b87b9f9435ebfe531eade2bae"
     },
     {
-      "path": "analysis/ablation/contrastes_finais.csv",
-      "bytes": 8729,
-      "sha256": "41eb4d5dd569a7dd4cf4a01c115228cbb6b3a6e25af23a51debfbdd3513accc1"
+      "path": "README.md",
+      "bytes": 1226,
+      "sha256": "14c35d118337b85b6f9e11f671f02a16a7d89c2b1122e1e983df41cb8359cb61"
     },
     {
       "path": "analysis/ablation/README.md",
@@ -18,14 +18,19 @@
       "sha256": "84cd58c0bf92deb66ef823c0e8fbdd26fc4de2d715af72d0e6c62a4c27a9f177"
     },
     {
-      "path": "analysis/round-confidence/intervalos_por_rodada.csv",
-      "bytes": 1470967,
-      "sha256": "45a168524c245c4d7cdfa287ce1f6dd8f04205948016af87b853f04e8c42ae8a"
+      "path": "analysis/ablation/contrastes_finais.csv",
+      "bytes": 8729,
+      "sha256": "41eb4d5dd569a7dd4cf4a01c115228cbb6b3a6e25af23a51debfbdd3513accc1"
     },
     {
       "path": "analysis/round-confidence/README.md",
       "bytes": 1656,
       "sha256": "43f69139c2c4dbe10ca082b79aa32ae2f411fb80cd32f326a77ac3b9263ffcc7"
+    },
+    {
+      "path": "analysis/round-confidence/intervalos_por_rodada.csv",
+      "bytes": 1470967,
+      "sha256": "45a168524c245c4d7cdfa287ce1f6dd8f04205948016af87b853f04e8c42ae8a"
     },
     {
       "path": "analysis/temporal/README.md",
@@ -148,16 +153,6 @@
       "sha256": "893e8835dc14845b5fce1217f3b4c9cd050385a22176ac4e8db138d035947064"
     },
     {
-      "path": "data/nbaiot-main/device_info_used.csv",
-      "bytes": 292,
-      "sha256": "014a5639d8eab6583b985e16ebedd4b3f2556e8943522a5c758da10b503aa552"
-    },
-    {
-      "path": "data/nbaiot-main/device_preparation_manifest.csv",
-      "bytes": 3039,
-      "sha256": "54892a7ad3508c0f1ea2cf370fd13137c8d88d8d5740e793082f1948316a2030"
-    },
-    {
       "path": "data/nbaiot-main/Ecobee_Thermostat_attack_manifest.csv",
       "bytes": 543,
       "sha256": "298c93ca155af9aa0d190c6765c60fb1958d99c6ac98168a86877876958d071f"
@@ -218,6 +213,16 @@
       "sha256": "738b315446e3cef6f586f02d5f2487cbcf64420622a7db30c8a6a85faa4848f9"
     },
     {
+      "path": "data/nbaiot-main/device_info_used.csv",
+      "bytes": 292,
+      "sha256": "014a5639d8eab6583b985e16ebedd4b3f2556e8943522a5c758da10b503aa552"
+    },
+    {
+      "path": "data/nbaiot-main/device_preparation_manifest.csv",
+      "bytes": 3039,
+      "sha256": "54892a7ad3508c0f1ea2cf370fd13137c8d88d8d5740e793082f1948316a2030"
+    },
+    {
       "path": "data/preparation/dataset_b_curation_report.csv",
       "bytes": 640,
       "sha256": "35c651d05253e8cb4a34e4147719ae25cf4af1aee071827f2665331720f99104"
@@ -234,8 +239,8 @@
     },
     {
       "path": "docs/REPRODUCIBILITY.md",
-      "bytes": 2680,
-      "sha256": "491931e7af1cc1b2da9f06e44a286836adcf9b268aee641e6a28bd99900eb827"
+      "bytes": 3059,
+      "sha256": "4c82b506af736bc907e598d58f77b31829e6903ed0d56c3087840c3b789a971d"
     },
     {
       "path": "provenance/dataset-a-run-manifest.json",
@@ -246,6 +251,11 @@
       "path": "provenance/dataset-c-run-manifest.json",
       "bytes": 1903,
       "sha256": "553d9193811214719283e5a703a0379a7278412158c927ba581fb44c0bd22678"
+    },
+    {
+      "path": "provenance/local-execution.json",
+      "bytes": 6607,
+      "sha256": "228368743be0a2f342927c034bf73b2268721f3c896b3b7b4e9e68e6d0e4576d"
     },
     {
       "path": "provenance/notebook-identifiers.json",
@@ -283,9 +293,49 @@
       "sha256": "fd4533431948f6f04e8a53246c6d69732e9bf32e632dc7cfab9c2ec0202d6270"
     },
     {
-      "path": "README.md",
-      "bytes": 908,
-      "sha256": "d5fb576b8b05299045e33a6dc984af5a2247fd924dae616a04e16fb17bda77f8"
+      "path": "reproduction/CSAI4IoT_Cumulative_Final_BaseVsExtreme_100R_Seeds43_52_Local.ipynb",
+      "bytes": 199086,
+      "sha256": "8d4a482f6ccb6138c92c776a3720ef6ff70a38cd350a48a77cef878a2be85ecd"
+    },
+    {
+      "path": "reproduction/CSAI4IoT_DatasetA_Benchmark_Final_Local.ipynb",
+      "bytes": 176622,
+      "sha256": "1bd5af0edb6ee6955740cc3fd420f77c38308d03a112bef488613dc897dcbb33"
+    },
+    {
+      "path": "reproduction/CSAI4IoT_DatasetB_Auditoria_e_Benchmark_Local.ipynb",
+      "bytes": 180311,
+      "sha256": "2d7eec2907ded1999abdea990a006aa75bc276deac64f2c43bd24a17272aeefa"
+    },
+    {
+      "path": "reproduction/CSAI4IoT_DatasetC_Benchmark_Complementar_Local.ipynb",
+      "bytes": 180398,
+      "sha256": "d41397f3361e11373f42ba4d445c88fae06622dfe981ce6e6c6697b1b00f02ae"
+    },
+    {
+      "path": "reproduction/CSAI4IoT_DatasetD_Auditoria_e_Benchmark_Local.ipynb",
+      "bytes": 180202,
+      "sha256": "a5a8e4870d58b29c7618e2fad0e3c088f75ea3383f944278af54dab494e3f7a2"
+    },
+    {
+      "path": "reproduction/CSAI4IoT_NBaIoT_MixedDevice_9Sources_100R_Seeds43_52_ThesisPressure_Local.ipynb",
+      "bytes": 184341,
+      "sha256": "b1bdf003586f3c4757964ffd69936bbf699ade85ed92b00aa30714238fc5252f"
+    },
+    {
+      "path": "reproduction/README.md",
+      "bytes": 4322,
+      "sha256": "fb239a3cdae9c46c3bae2d6afed1344524e54e84c6f4f11cb490d2da25636057"
+    },
+    {
+      "path": "reproduction/requirements.txt",
+      "bytes": 206,
+      "sha256": "9300cc73fe53e6170bdabaf299218a3fe8f2811d9545b774ddf4181ea0b6c66f"
+    },
+    {
+      "path": "results/cumulative-base-extreme/RUN_COMPLETED.csv",
+      "bytes": 318,
+      "sha256": "c25bb9db92c346dffa146a2e7d82cf139c68efe1ae86d8e8498e17a4fca18f12"
     },
     {
       "path": "results/cumulative-base-extreme/cumulative_base_vs_extreme_statistics.csv",
@@ -336,11 +386,6 @@
       "path": "results/cumulative-base-extreme/mixed_device_source_manifest.csv",
       "bytes": 1087,
       "sha256": "641dee4111df1fbaf3840d66cef49f6bb4836e2054e4a197b6f9b5163b0e5921"
-    },
-    {
-      "path": "results/cumulative-base-extreme/RUN_COMPLETED.csv",
-      "bytes": 318,
-      "sha256": "c25bb9db92c346dffa146a2e7d82cf139c68efe1ae86d8e8498e17a4fca18f12"
     },
     {
       "path": "results/cumulative-base-extreme/statistics/descriptive_ci95.csv",
@@ -511,26 +556,6 @@
       "path": "results/initial-abcd/A_CPS-NetFlow-IDS/Sybil/summary_by_strategy.csv",
       "bytes": 1186,
       "sha256": "5b285357f94e05a92a16fa50fce709de00a8d3f34d2d12880e6a16d7f61e5f42"
-    },
-    {
-      "path": "results/initial-abcd/all_diagnostic.csv",
-      "bytes": 1425,
-      "sha256": "024729383ae1193a8b2662b98e79a635f687cdfaaa741027d620a0d757024f06"
-    },
-    {
-      "path": "results/initial-abcd/all_final_stage_ranking.csv",
-      "bytes": 15724,
-      "sha256": "a4b2fc9846a0c90af55977be18772bfd63e0646785fd8e6f1e30affe9552fe7e"
-    },
-    {
-      "path": "results/initial-abcd/all_raw_results.csv",
-      "bytes": 656985,
-      "sha256": "a657cab3f87cc9e28fafa1bfee68b30f42ca2cc3514445b49920f5eab3f81271"
-    },
-    {
-      "path": "results/initial-abcd/all_summary_by_stage.csv",
-      "bytes": 266013,
-      "sha256": "339564e5b2f4af62e4f26e92ab12ff99a767beabfaf68b75aa44fc21d2c75d78"
     },
     {
       "path": "results/initial-abcd/B_Packet-Level_Botnet_Set/Cumulative/execution_report.csv",
@@ -833,9 +858,34 @@
       "sha256": "84e6027128a0778131ce17f7047e9e461149c775902141d3db98792d61a15528"
     },
     {
+      "path": "results/initial-abcd/all_diagnostic.csv",
+      "bytes": 1425,
+      "sha256": "024729383ae1193a8b2662b98e79a635f687cdfaaa741027d620a0d757024f06"
+    },
+    {
+      "path": "results/initial-abcd/all_final_stage_ranking.csv",
+      "bytes": 15724,
+      "sha256": "a4b2fc9846a0c90af55977be18772bfd63e0646785fd8e6f1e30affe9552fe7e"
+    },
+    {
+      "path": "results/initial-abcd/all_raw_results.csv",
+      "bytes": 656985,
+      "sha256": "a657cab3f87cc9e28fafa1bfee68b30f42ca2cc3514445b49920f5eab3f81271"
+    },
+    {
+      "path": "results/initial-abcd/all_summary_by_stage.csv",
+      "bytes": 266013,
+      "sha256": "339564e5b2f4af62e4f26e92ab12ff99a767beabfaf68b75aa44fc21d2c75d78"
+    },
+    {
       "path": "results/initial-abcd/unified_results-original.zip",
       "bytes": 6743558,
       "sha256": "b64cf5cc8504da81a11c29e91a54b5d51b3d50eba5af9a452e8708af980ed725"
+    },
+    {
+      "path": "results/initial-campaign/README.md",
+      "bytes": 1510,
+      "sha256": "fae4c0ff1dbbbd315ae9cb0389015681936e4b6550dd01dfedb24a3d2717a03b"
     },
     {
       "path": "results/initial-campaign/benchmark-consolidated/Benchmark_ModelReplacement_Results__Danmini_Doorbell_gafgyt_attacks__Raw_Results_Scaling.csv",
@@ -1098,14 +1148,14 @@
       "sha256": "671d175bc10d51573bcd550583cffc1b5469aee63b321d5e1ffd2bce95f5e805"
     },
     {
-      "path": "results/initial-campaign/early-runs/Datasets_Ecobee_Thermostat_gafgyt_RESULTADOS_ULTIMATE_5_METHODS.csv",
-      "bytes": 6362,
-      "sha256": "7815d170ce6efd8dbe173d8de7916ff448729a50b7af06c55adafc99fa21e85c"
-    },
-    {
       "path": "results/initial-campaign/early-runs/DatasetsDanmini_Doorbell_mirai_RESULTADOS_ULTIMATE_5_METHODS.csv",
       "bytes": 5720,
       "sha256": "40b0d4f5c1c9bee1794c69d8867f381036d07961a548c87a3a7d04644bcff50d"
+    },
+    {
+      "path": "results/initial-campaign/early-runs/Datasets_Ecobee_Thermostat_gafgyt_RESULTADOS_ULTIMATE_5_METHODS.csv",
+      "bytes": 6362,
+      "sha256": "7815d170ce6efd8dbe173d8de7916ff448729a50b7af06c55adafc99fa21e85c"
     },
     {
       "path": "results/initial-campaign/early-runs/Ecobee_Thermostat_gafgyt_attacks_consolidado_RESULTADOS_ULTIMATE_5_METHODS.csv",
@@ -1183,11 +1233,6 @@
       "sha256": "2e586ed1512e2ed882c8989c03c2207fc2606d695b39be79fc9ad3b264f001f8"
     },
     {
-      "path": "results/initial-campaign/README.md",
-      "bytes": 1510,
-      "sha256": "fae4c0ff1dbbbd315ae9cb0389015681936e4b6550dd01dfedb24a3d2717a03b"
-    },
-    {
       "path": "results/initial-campaign/reexecutions-2026-02/ecobee-mirai/Cumulative.csv",
       "bytes": 29370,
       "sha256": "e3d47a2f5e53949ffd0a4a635b7664dc1c3a19373ec31f2b457c76e43c18a9e7"
@@ -1208,14 +1253,14 @@
       "sha256": "9628db7c66cbc57de15b7ac5c1e530f78699b0dd0aa12f71c9cd68df6931710e"
     },
     {
-      "path": "results/initial-campaign/reexecutions-2026-02/ecobee-mirai/sources.json",
-      "bytes": 837,
-      "sha256": "5da53105886b17e4bd002f89d244db25ea81f7728a9d7518e428f42f23f3b5ac"
-    },
-    {
       "path": "results/initial-campaign/reexecutions-2026-02/ecobee-mirai/Sybil.csv",
       "bytes": 29494,
       "sha256": "9deaa5c3592da2c175c4ec14b6536bc5d4e1f991beb44b48f95fba008efa9195"
+    },
+    {
+      "path": "results/initial-campaign/reexecutions-2026-02/ecobee-mirai/sources.json",
+      "bytes": 837,
+      "sha256": "5da53105886b17e4bd002f89d244db25ea81f7728a9d7518e428f42f23f3b5ac"
     },
     {
       "path": "results/nbaiot-main/execution/Cumulative_IID.csv",
@@ -1287,5 +1332,6 @@
       "bytes": 733,
       "sha256": "8a58100e2365be4d3a11b7d28b303e711a2b5b475f71364099254ea771c55fba"
     }
-  ]
+  ],
+  "updated_at": "2026-10-19"
 }

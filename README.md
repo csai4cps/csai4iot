@@ -18,6 +18,7 @@ Os resultados indicam desempenho próximo ao FLTrust e elevada qualidade de clas
 
 | Material | Conteúdo | Onde consultar |
 |---|---|---|
+| Execução local | Seis notebooks com dados locais, auditoria de integridade e ambiente de execução. | [Guia e notebooks](acervo/reproduction/) |
 | Código experimental | Notebooks dos benchmarks, das avaliações complementares e das auditorias de viabilidade. | [acervo/code](acervo/code/) |
 | Dados de entrada | Fontes N-BaIoT, datasets próprios e relatórios de preparação. | [acervo/data](acervo/data/) |
 | Resultados | Métricas por execução, resumos estatísticos e resultados das campanhas iniciais e finais. | [acervo/results](acervo/results/) |
@@ -30,7 +31,7 @@ Os resultados indicam desempenho próximo ao FLTrust e elevada qualidade de clas
 
 1. Consulte o [índice do acervo](acervo/) para localizar o material por campanha.
 2. Para examinar os resultados principais, abra [N-BaIoT](acervo/results/nbaiot-main/). As avaliações complementares estão em [Dataset A](acervo/results/dataset-a/), [Dataset C](acervo/results/dataset-c/) e [Cumulative Base/Extreme](acervo/results/cumulative-base-extreme/).
-3. Para reproduzir os procedimentos, leia a [documentação metodológica](acervo/docs/REPRODUCIBILITY.md), identifique os dados e selecione o notebook da mesma campanha.
+3. Para novas execuções, siga o [guia local](acervo/reproduction/). Para interpretar as condições e limitações, consulte a [documentação metodológica](acervo/docs/REPRODUCIBILITY.md).
 4. Para análises a partir dos registros completos, baixe o pacote correspondente e consulte o [inventário de integridade](acervo/provenance/pacotes-verificados.json).
 
 As avaliações preliminares estão em [campanha inicial](acervo/results/initial-campaign/) e [avaliação inicial dos datasets A–D](acervo/results/initial-abcd/). Seus protocolos e resultados devem ser interpretados separadamente das campanhas finais.
@@ -47,3 +48,9 @@ Os quatro pacotes contêm **2.377 arquivos**, incluindo resultados brutos, regis
 | Cumulative — comparação Base/Extreme | 285 | [cumulative-base-extreme.zip](https://github.com/csai4cps/csai4iot/releases/download/acervo-2026-10-19/cumulative-base-extreme.zip) |
 
 Os hashes SHA-256 dos pacotes e de seus arquivos estão no [inventário](acervo/provenance/pacotes-verificados.json). As condições de reprodução e os limites de interpretação dos resultados acompanham a documentação de cada campanha.
+
+## Versão e licenças
+
+A [release de reprodução local](https://github.com/csai4cps/csai4iot/releases/tag/acervo-2026-10-19-v2) fornece o código e a documentação atualizados em **Source code**. Os quatro pacotes experimentais mantêm os links e hashes da tabela acima.
+
+O código original usa **MIT**; a documentação, as figuras e os resultados autorais usam **CC BY 4.0**, com uso comercial permitido nos respectivos escopos. Consulte [licenciamento](LICENSING.md) e [fontes de terceiros](THIRD_PARTY_NOTICES.md). Os notebooks e os pacotes citados na tese permanecem disponíveis como referências dos experimentos.

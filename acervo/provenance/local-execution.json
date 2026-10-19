@@ -1,0 +1,88 @@
+{
+  "version": "2026-10-19-v2",
+  "scope": "Local input/output adaptation; original scientific functions preserved. Full campaigns were not rerun for this distribution.",
+  "notebooks": [
+    {
+      "campaign": "dataset-b",
+      "reference": "acervo/code/audit-b-d/CSAI4IoT_DatasetB_Auditoria_e_Benchmark.ipynb",
+      "reference_sha256": "63f2f17317bd24702613d1cd1cb6f5a1868f4ddf4710fc11dee2484298e3c0e2",
+      "local_notebook": "acervo/reproduction/CSAI4IoT_DatasetB_Auditoria_e_Benchmark_Local.ipynb",
+      "local_sha256": "2d7eec2907ded1999abdea990a006aa75bc276deac64f2c43bd24a17272aeefa",
+      "unchanged_scientific_definitions": 55,
+      "input_sha256": {
+        "acervo/data/audit-b-d/Dataset_B_input.csv": "7a0200da7e511624c0ef9db9114890aac72cbc6b7a4b62aa24178ddf66f66f3e"
+      }
+    },
+    {
+      "campaign": "dataset-d",
+      "reference": "acervo/code/audit-b-d/CSAI4IoT_DatasetD_Auditoria_e_Benchmark.ipynb",
+      "reference_sha256": "c2a7af93e55a393cc5f87b9de7b030352d29a30af4b9c052c013264d4ea24d30",
+      "local_notebook": "acervo/reproduction/CSAI4IoT_DatasetD_Auditoria_e_Benchmark_Local.ipynb",
+      "local_sha256": "a5a8e4870d58b29c7618e2fad0e3c088f75ea3383f944278af54dab494e3f7a2",
+      "unchanged_scientific_definitions": 55,
+      "input_sha256": {
+        "acervo/data/audit-b-d/Dataset_D_input.csv": "55626b65b9bbc4b85dae46ef1a84382f4f77f4ee52d673b9e9a8ef129df20499"
+      }
+    },
+    {
+      "campaign": "cumulative-base-extreme",
+      "reference": "acervo/code/cumulative-base-extreme/CSAI4IoT_Cumulative_Final_BaseVsExtreme_100R_Seeds43_52.ipynb",
+      "reference_sha256": "f148361babdbc978f1fe30d087544392452233a3abf0176e2ad86cc81e34b4af",
+      "local_notebook": "acervo/reproduction/CSAI4IoT_Cumulative_Final_BaseVsExtreme_100R_Seeds43_52_Local.ipynb",
+      "local_sha256": "8d4a482f6ccb6138c92c776a3720ef6ff70a38cd350a48a77cef878a2be85ecd",
+      "unchanged_scientific_definitions": 59,
+      "input_sha256": {
+        "acervo/data/nbaiot-main/NBaIoT_Danmini_Doorbell_Balanced2K.csv": "af87aa41e01854b816c46bff9c33ab822147ef4ea920cb9465b12bca1920d1c1",
+        "acervo/data/nbaiot-main/NBaIoT_Ecobee_Thermostat_Balanced2K.csv": "50c0553a53270e04c36286da46611ede40306a6a816b18ca5a9f9721d5846394",
+        "acervo/data/nbaiot-main/NBaIoT_Ennio_Doorbell_Balanced2K.csv": "f699863e71c4fa457d5de93828d7cc2f9a395e4fdc8ae9ce38db42a995dd1e4d",
+        "acervo/data/nbaiot-main/NBaIoT_Philips_B120N10_Baby_Monitor_Balanced2K.csv": "dac57fca99ffe7496500776327275316478618e99d3204f3fae2593b3d9f581f",
+        "acervo/data/nbaiot-main/NBaIoT_Provision_PT_737E_Security_Camera_Balanced2K.csv": "ecc9e64a820c15f4aea50d98f750454dbe3aa8e48841f0cfd4370ea3d14cce8a",
+        "acervo/data/nbaiot-main/NBaIoT_Provision_PT_838_Security_Camera_Balanced2K.csv": "c97ce8c1f40bf32807321406f2506d2fa3a578a020454678e081f001fd450b10",
+        "acervo/data/nbaiot-main/NBaIoT_Samsung_SNH_1011_N_Webcam_Balanced2K.csv": "2ed7a232fc7d4cfa2905a1f041884a4f97aaaa78ab1c1f1aef60b072dfae9b0f",
+        "acervo/data/nbaiot-main/NBaIoT_SimpleHome_XCS7_1002_WHT_Security_Camera_Balanced2K.csv": "86ee0f37ef2598d1b4dd0e44a7a919b4bfc838a151dce53c655ad04fed8017ad",
+        "acervo/data/nbaiot-main/NBaIoT_SimpleHome_XCS7_1003_WHT_Security_Camera_Balanced2K.csv": "b70067e8d0dfb30786d378f6128449df2d4cf51a99e83faa0c7ea7f10415efd0"
+      }
+    },
+    {
+      "campaign": "dataset-a",
+      "reference": "acervo/code/dataset-a/CSAI4IoT_DatasetA_Benchmark_Final.ipynb",
+      "reference_sha256": "69ec2ad289657f6ea14294517882ea217c34269c4448708972ae4d3e21b651dd",
+      "local_notebook": "acervo/reproduction/CSAI4IoT_DatasetA_Benchmark_Final_Local.ipynb",
+      "local_sha256": "1bd5af0edb6ee6955740cc3fd420f77c38308d03a112bef488613dc897dcbb33",
+      "unchanged_scientific_definitions": 55,
+      "input_sha256": {
+        "acervo/data/dataset-a/Dataset_A_CPS-NetFlow-IDS.csv": "7d5c0cff6701ccb59a865a902dd5a5f423e02455b5a69f4fa6343a484170f113"
+      }
+    },
+    {
+      "campaign": "dataset-c",
+      "reference": "acervo/code/dataset-c/CSAI4IoT_DatasetC_Benchmark_Complementar.ipynb",
+      "reference_sha256": "57194799f02e1b1f720baf79857c023fc911a94ae9a36d203ed015bdc24b6279",
+      "local_notebook": "acervo/reproduction/CSAI4IoT_DatasetC_Benchmark_Complementar_Local.ipynb",
+      "local_sha256": "d41397f3361e11373f42ba4d445c88fae06622dfe981ce6e6c6697b1b00f02ae",
+      "unchanged_scientific_definitions": 55,
+      "input_sha256": {
+        "acervo/data/dataset-c/Dataset_C_input.csv": "3c4d626a44580b20ce3bdfad3b6156363f72f8bde7034f1522099daf7b4f054e"
+      }
+    },
+    {
+      "campaign": "nbaiot-main",
+      "reference": "acervo/code/nbaiot-main/CSAI4IoT_NBaIoT_MixedDevice_9Sources_100R_Seeds43_52_ThesisPressure.ipynb",
+      "reference_sha256": "1c6b59a28b0aa4eeea8aba6873866f4df4739430ea4790f0e75e64f7f34199ce",
+      "local_notebook": "acervo/reproduction/CSAI4IoT_NBaIoT_MixedDevice_9Sources_100R_Seeds43_52_ThesisPressure_Local.ipynb",
+      "local_sha256": "b1bdf003586f3c4757964ffd69936bbf699ade85ed92b00aa30714238fc5252f",
+      "unchanged_scientific_definitions": 55,
+      "input_sha256": {
+        "acervo/data/nbaiot-main/NBaIoT_Danmini_Doorbell_Balanced2K.csv": "af87aa41e01854b816c46bff9c33ab822147ef4ea920cb9465b12bca1920d1c1",
+        "acervo/data/nbaiot-main/NBaIoT_Ecobee_Thermostat_Balanced2K.csv": "50c0553a53270e04c36286da46611ede40306a6a816b18ca5a9f9721d5846394",
+        "acervo/data/nbaiot-main/NBaIoT_Ennio_Doorbell_Balanced2K.csv": "f699863e71c4fa457d5de93828d7cc2f9a395e4fdc8ae9ce38db42a995dd1e4d",
+        "acervo/data/nbaiot-main/NBaIoT_Philips_B120N10_Baby_Monitor_Balanced2K.csv": "dac57fca99ffe7496500776327275316478618e99d3204f3fae2593b3d9f581f",
+        "acervo/data/nbaiot-main/NBaIoT_Provision_PT_737E_Security_Camera_Balanced2K.csv": "ecc9e64a820c15f4aea50d98f750454dbe3aa8e48841f0cfd4370ea3d14cce8a",
+        "acervo/data/nbaiot-main/NBaIoT_Provision_PT_838_Security_Camera_Balanced2K.csv": "c97ce8c1f40bf32807321406f2506d2fa3a578a020454678e081f001fd450b10",
+        "acervo/data/nbaiot-main/NBaIoT_Samsung_SNH_1011_N_Webcam_Balanced2K.csv": "2ed7a232fc7d4cfa2905a1f041884a4f97aaaa78ab1c1f1aef60b072dfae9b0f",
+        "acervo/data/nbaiot-main/NBaIoT_SimpleHome_XCS7_1002_WHT_Security_Camera_Balanced2K.csv": "86ee0f37ef2598d1b4dd0e44a7a919b4bfc838a151dce53c655ad04fed8017ad",
+        "acervo/data/nbaiot-main/NBaIoT_SimpleHome_XCS7_1003_WHT_Security_Camera_Balanced2K.csv": "b70067e8d0dfb30786d378f6128449df2d4cf51a99e83faa0c7ea7f10415efd0"
+      }
+    }
+  ]
+}

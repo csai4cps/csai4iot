@@ -1,0 +1,8 @@
+# Python 3.12; ambiente de validação local, não lockfile do experimento original.
+numpy==2.3.5
+pandas==3.0.1
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+hdbscan==0.8.44
+ipykernel==7.4.0

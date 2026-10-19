@@ -4,13 +4,33 @@
   "files": [
     {
       "path": ".gitignore",
-      "bytes": 66,
-      "sha256": "57cdfc9444f1bc5bd048ecf22fa062a65e577d7b87b9f9435ebfe531eade2bae"
+      "bytes": 91,
+      "sha256": "f7b7fd2ea33fd2f4850649586225160722535895992d41478b8f5028338d447a"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1102,
+      "sha256": "2d7a55caa1670b389378d42b0cdf3451db669481bfd89f95a4db25d3b9c3d3e6"
+    },
+    {
+      "path": "LICENSE-CC-BY-4.0.md",
+      "bytes": 852,
+      "sha256": "0e625124b9719c034acfb25b6e11b61d1ca080588d15b8b6cc8339e52c4428d4"
+    },
+    {
+      "path": "LICENSING.md",
+      "bytes": 1688,
+      "sha256": "cef0eddb71251b49bbdbd414f5d49f896897cfc24116de6f1549b25b89d19893"
     },
     {
       "path": "README.md",
-      "bytes": 5884,
-      "sha256": "dcbdc8b72f7a2844f583945be658072999fa85497da9c75b4cdc34fc5224b7f1"
+      "bytes": 6737,
+      "sha256": "39ba1ad9b073769de62d450c101726f5f3bf82b4ed207fe5e896577c71d51db1"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 1433,
+      "sha256": "bf5f7588dface837b173fbbdcbd9eaadbb8e32aacf8135edf5336663b514e876"
     },
     {
       "path": "analysis/ablation/README.md",
@@ -312,5 +332,6 @@
       "bytes": 733,
       "sha256": "8a58100e2365be4d3a11b7d28b303e711a2b5b475f71364099254ea771c55fba"
     }
-  ]
+  ],
+  "updated_at": "2026-10-19"
 }

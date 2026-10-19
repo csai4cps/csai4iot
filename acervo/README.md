@@ -2,7 +2,8 @@
 
 Este diretório centraliza códigos, entradas, resultados e análises. Os arquivos constituem o material suplementar dos experimentos apresentados na tese.
 
-- [Códigos e notebooks](code/)
+- [Guia e seis notebooks para execução local](reproduction/)
+- [Códigos e notebooks de referência](code/)
 - [Dados de entrada, incluindo as nove fontes N-BaIoT](data/)
 - [Resultados e estatísticas](results/)
 - [Campanha inicial A–D: CSVs e ZIP original](results/initial-abcd/)
@@ -12,3 +13,5 @@ Este diretório centraliza códigos, entradas, resultados e análises. Os arquiv
 - [Reprodutibilidade e limitações](docs/REPRODUCIBILITY.md)
 
 As campanhas iniciais e finais são distintas; B e D não integram a inferência final. Os procedimentos de execução e as limitações metodológicas são descritos em [Reprodutibilidade](docs/REPRODUCIBILITY.md).
+
+A distribuição atual de código está na [release de reprodução local](https://github.com/csai4cps/csai4iot/releases/tag/acervo-2026-10-19-v2). Consulte as [licenças e condições de reutilização](../LICENSING.md).
