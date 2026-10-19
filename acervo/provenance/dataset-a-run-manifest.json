@@ -1,11 +1,11 @@
 {
   "dataset": "Dataset_A_CPS-NetFlow-IDS",
   "source": {
-    "id": "1QXLNgnHs-xghfan0mMT9g76F5fc2L_yu",
     "name": "Dataset_A_CPS-NetFlow-IDS.csv",
     "modifiedTime": "2026-06-25T02:45:32.948Z",
     "md5Checksum": "52aec8e39353024b2ce09822eb3d14c8",
-    "size": "1282415"
+    "size": "1282415",
+    "url": "https://github.com/csai4cps/csai4iot/blob/main/acervo/data/dataset-a/Dataset_A_CPS-NetFlow-IDS.csv"
   },
   "sha256": "7d5c0cff6701ccb59a865a902dd5a5f423e02455b5a69f4fa6343a484170f113",
   "rows": 2452,

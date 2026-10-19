@@ -1,13 +1,13 @@
 # Resultados da campanha inicial
 
-Arquivo histórico da campanha inicial de experimentos do projeto CSAI4IoT, reunido para consulta e rastreabilidade em um único diretório.
+Resultados da avaliação inicial do projeto CSAI-4-IoT, organizados por cenário e etapa experimental.
 
 ## Organização
 
-- `benchmark-consolidated/`: 50 arquivos CSV da pasta **Benchmark Consolidated**, com resultados por execução, estatísticas e relatórios dos cenários Sybil, Scaling/Model Replacement, On-Off e Cumulative Backdoor.
-- `early-runs/`: 11 arquivos CSV das execuções iniciais da pasta **CSAI4CPS/Datasets/Resultados**.
+- `benchmark-consolidated/`: 50 arquivos CSV, com resultados por execução, estatísticas e relatórios dos cenários Sybil, Scaling/Model Replacement, On-Off e Cumulative Backdoor.
+- `early-runs/`: 11 arquivos CSV das execuções antecedentes.
 - `notebooks/`: 7 notebooks da campanha e de consolidação/visualização, preservados com suas saídas originais.
-- `manifest.csv`: relação dos arquivos, links das cópias centralizadas e identificadores de origem, tamanho em bytes e hash SHA-256.
+- `manifest.csv`: relação dos arquivos, endereços públicos, tamanhos em bytes e hashes SHA-256.
 
 ## Identificação da campanha
 
@@ -15,10 +15,10 @@ Os arquivos aqui reunidos pertencem à campanha inicial e aos seus experimentos 
 
 Os nomes originais dos CSV foram preservados. O prefixo histórico `Benchmark_Resultados_Final` identifica os arquivos do cenário Cumulative Backdoor dentro desta coleção da campanha inicial.
 
-## Origem
+## Conjuntos de resultados
 
-- [Benchmark Consolidated](benchmark-consolidated/)
-- [CSAI4CPS/Datasets/Resultados](early-runs/)
+- [Resultados consolidados por cenário](benchmark-consolidated/)
+- [Execuções antecedentes](early-runs/)
 - Os links individuais dos notebooks e resultados constam em `manifest.csv`.
 
 Os notebooks incluem o código e as saídas das respectivas execuções. Os caminhos de entrada e saída devem ser configurados de acordo com o ambiente de reprodução.

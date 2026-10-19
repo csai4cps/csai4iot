@@ -1,13 +1,13 @@
 {
   "mainraw": {
-    "bytes": 332941,
-    "sha256_notebook": "6ef29dfb7e64acbc0e3389787cf0d662c7facb57658d01e3614780f7f1007e4f",
+    "bytes": 400765,
+    "sha256_notebook": "1c6b59a28b0aa4eeea8aba6873866f4df4739430ea4790f0e75e64f7f34199ce",
     "sha256_code_cells": "a514cffbb2f3475809d2a3ea7f02a20b708a7aae47ba5a005a69fc30d550952d",
     "code_hash_rule": "UTF-8 de fontes das células code, na ordem, unidas por newline; hash calculado em 04/10/2026, não contemporâneo à execução"
   },
   "extnb": {
-    "bytes": 281473,
-    "sha256_notebook": "8dcb9abf4192e560309e47fbe75a3b48a52f6ddd1c6144107a71a81db994c6f1",
+    "bytes": 341356,
+    "sha256_notebook": "f148361babdbc978f1fe30d087544392452233a3abf0176e2ad86cc81e34b4af",
     "sha256_code_cells": "9ab432f3d3fbde5440c7248665788daf2543b574e086ee4b3c52655ed6b446dc",
     "code_hash_rule": "UTF-8 de fontes das células code, na ordem, unidas por newline; hash calculado em 04/10/2026, não contemporâneo à execução"
   }

@@ -1,139 +1,139 @@
 {
   "archived_at": "2026-10-04",
-  "visibility": "private",
-  "note": "Cópias preservadas com saídas e código; sem hash contemporâneo do código executado nem ambiente original integral.",
+  "visibility": "public",
+  "note": "Código, dados e resultados das campanhas experimentais. Os hashes identificam os arquivos desta distribuição; a reprodução exata do ambiente é limitada pela ausência de registros completos de versões e hardware.",
   "notebooks": [
     {
       "campaign": "nbaiot-main",
       "url": "https://github.com/csai4cps/csai4iot/blob/main/acervo/code/nbaiot-main/CSAI4IoT_NBaIoT_MixedDevice_9Sources_100R_Seeds43_52_ThesisPressure.ipynb",
-      "sha256": "6ef29dfb7e64acbc0e3389787cf0d662c7facb57658d01e3614780f7f1007e4f"
+      "sha256": "1c6b59a28b0aa4eeea8aba6873866f4df4739430ea4790f0e75e64f7f34199ce"
     },
     {
       "campaign": "cumulative-base-extreme",
       "url": "https://github.com/csai4cps/csai4iot/blob/main/acervo/code/cumulative-base-extreme/CSAI4IoT_Cumulative_Final_BaseVsExtreme_100R_Seeds43_52.ipynb",
-      "sha256": "8dcb9abf4192e560309e47fbe75a3b48a52f6ddd1c6144107a71a81db994c6f1"
+      "sha256": "f148361babdbc978f1fe30d087544392452233a3abf0176e2ad86cc81e34b4af"
     }
   ],
   "results": [
     {
       "path": "results/nbaiot-main/statistics/thesis_summary_ci95.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/nbaiot-main/statistics/thesis_summary_ci95.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/nbaiot-main/statistics/thesis_summary_ci95.csv"
     },
     {
       "path": "results/nbaiot-main/statistics/wilcoxon_holm_effect_sizes.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/nbaiot-main/statistics/wilcoxon_holm_effect_sizes.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/nbaiot-main/statistics/wilcoxon_holm_effect_sizes.csv"
     },
     {
       "path": "results/nbaiot-main/statistics/friedman_tests.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/nbaiot-main/statistics/friedman_tests.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/nbaiot-main/statistics/friedman_tests.csv"
     },
     {
       "path": "results/nbaiot-main/statistics/descriptive_ci95.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/nbaiot-main/statistics/descriptive_ci95.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/nbaiot-main/statistics/descriptive_ci95.csv"
     },
     {
       "path": "results/nbaiot-main/statistics/metrics_by_seed.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/nbaiot-main/statistics/metrics_by_seed.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/nbaiot-main/statistics/metrics_by_seed.csv"
     },
     {
       "path": "results/cumulative-base-extreme/statistics/thesis_summary_ci95.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/statistics/thesis_summary_ci95.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/statistics/thesis_summary_ci95.csv"
     },
     {
       "path": "results/cumulative-base-extreme/statistics/wilcoxon_holm_effect_sizes.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/statistics/wilcoxon_holm_effect_sizes.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/statistics/wilcoxon_holm_effect_sizes.csv"
     },
     {
       "path": "results/cumulative-base-extreme/statistics/friedman_tests.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/statistics/friedman_tests.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/statistics/friedman_tests.csv"
     },
     {
       "path": "results/cumulative-base-extreme/statistics/descriptive_ci95.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/statistics/descriptive_ci95.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/statistics/descriptive_ci95.csv"
     },
     {
       "path": "results/cumulative-base-extreme/statistics/metrics_by_seed.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/statistics/metrics_by_seed.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/statistics/metrics_by_seed.csv"
     },
     {
       "path": "results/nbaiot-main/execution/OnOff_NonIID_Dirichlet.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/nbaiot-main/execution/OnOff_NonIID_Dirichlet.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/nbaiot-main/execution/OnOff_NonIID_Dirichlet.csv"
     },
     {
       "path": "results/nbaiot-main/execution/OnOff_IID.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/nbaiot-main/execution/OnOff_IID.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/nbaiot-main/execution/OnOff_IID.csv"
     },
     {
       "path": "results/nbaiot-main/execution/Sybil_NonIID_Dirichlet.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/nbaiot-main/execution/Sybil_NonIID_Dirichlet.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/nbaiot-main/execution/Sybil_NonIID_Dirichlet.csv"
     },
     {
       "path": "results/nbaiot-main/execution/Sybil_IID.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/nbaiot-main/execution/Sybil_IID.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/nbaiot-main/execution/Sybil_IID.csv"
     },
     {
       "path": "results/nbaiot-main/execution/Scaling_NonIID_Dirichlet.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/nbaiot-main/execution/Scaling_NonIID_Dirichlet.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/nbaiot-main/execution/Scaling_NonIID_Dirichlet.csv"
     },
     {
       "path": "results/nbaiot-main/execution/Scaling_IID.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/nbaiot-main/execution/Scaling_IID.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/nbaiot-main/execution/Scaling_IID.csv"
     },
     {
       "path": "results/nbaiot-main/execution/Cumulative_NonIID_Dirichlet.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/nbaiot-main/execution/Cumulative_NonIID_Dirichlet.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/nbaiot-main/execution/Cumulative_NonIID_Dirichlet.csv"
     },
     {
       "path": "results/nbaiot-main/execution/Cumulative_IID.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/nbaiot-main/execution/Cumulative_IID.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/nbaiot-main/execution/Cumulative_IID.csv"
     },
     {
       "path": "results/cumulative-base-extreme/RUN_COMPLETED.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/RUN_COMPLETED.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/RUN_COMPLETED.csv"
     },
     {
       "path": "results/cumulative-base-extreme/execution_report_all_profiles.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/execution_report_all_profiles.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/execution_report_all_profiles.csv"
     },
     {
       "path": "results/cumulative-base-extreme/cumulative_base_vs_extreme_thesis_focus_adaptive.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/cumulative_base_vs_extreme_thesis_focus_adaptive.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/cumulative_base_vs_extreme_thesis_focus_adaptive.csv"
     },
     {
       "path": "results/cumulative-base-extreme/cumulative_base_vs_extreme_statistics.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/cumulative_base_vs_extreme_statistics.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/cumulative_base_vs_extreme_statistics.csv"
     },
     {
       "path": "results/cumulative-base-extreme/cumulative_final_metrics_by_seed.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/cumulative_final_metrics_by_seed.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/cumulative_final_metrics_by_seed.csv"
     },
     {
       "path": "results/cumulative-base-extreme/cumulative_temporal_metrics_by_seed.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/cumulative_temporal_metrics_by_seed.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/cumulative_temporal_metrics_by_seed.csv"
     },
     {
       "path": "results/cumulative-base-extreme/cumulative_stress_summary.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/cumulative_stress_summary.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/cumulative_stress_summary.csv"
     },
     {
       "path": "results/cumulative-base-extreme/cumulative_stress_breakpoints_by_seed.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/cumulative_stress_breakpoints_by_seed.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/cumulative_stress_breakpoints_by_seed.csv"
     },
     {
       "path": "results/cumulative-base-extreme/harmonization_manifest.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/harmonization_manifest.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/harmonization_manifest.csv"
     },
     {
       "path": "results/cumulative-base-extreme/mixed_device_source_manifest.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/mixed_device_source_manifest.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/mixed_device_source_manifest.csv"
     },
     {
       "path": "results/cumulative-base-extreme/cumulative_stress_profile.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/cumulative_stress_profile.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/cumulative_stress_profile.csv"
     },
     {
       "path": "results/cumulative-base-extreme/thesis_pressure_profile.csv",
-      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/thesis_pressure_profile.csv?usp=drivesdk"
+      "source": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/cumulative-base-extreme/thesis_pressure_profile.csv"
     }
   ],
   "external_raw": [

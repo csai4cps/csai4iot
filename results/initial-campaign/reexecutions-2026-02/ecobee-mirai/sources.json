@@ -1,26 +1,22 @@
 [
   {
     "attack": "OnOff",
-    "url": "https://drive.google.com/file/d/1mTm8qCvXYsqNO7QZA4EkP6c2k-F36O_H/view?usp=drivesdk",
-    "id": "1mTm8qCvXYsqNO7QZA4EkP6c2k-F36O_H",
+    "url": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/initial-campaign/reexecutions-2026-02/ecobee-mirai/OnOff.csv",
     "title": "Raw_Results_OnOff.csv"
   },
   {
     "attack": "Sybil",
-    "url": "https://drive.google.com/file/d/19zZ6U0rKCM-KjnnXLcJQxVJgOplRSZZb/view?usp=drivesdk",
-    "id": "19zZ6U0rKCM-KjnnXLcJQxVJgOplRSZZb",
+    "url": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/initial-campaign/reexecutions-2026-02/ecobee-mirai/Sybil.csv",
     "title": "Raw_Results_Sybil.csv"
   },
   {
     "attack": "Scaling",
-    "url": "https://drive.google.com/file/d/1iRXB6VYWXr9WCncl97R_He1pbWIbhaRA/view?usp=drivesdk",
-    "id": "1iRXB6VYWXr9WCncl97R_He1pbWIbhaRA",
+    "url": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/initial-campaign/reexecutions-2026-02/ecobee-mirai/Scaling.csv",
     "title": "Raw_Results_Scaling.csv"
   },
   {
     "attack": "Cumulative",
-    "url": "https://drive.google.com/file/d/1Gxa3Dhgf8Ji4Kb0J0iGopLodtyOseDwU/view?usp=drivesdk",
-    "id": "1Gxa3Dhgf8Ji4Kb0J0iGopLodtyOseDwU",
+    "url": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/initial-campaign/reexecutions-2026-02/ecobee-mirai/Cumulative.csv",
     "title": "Raw_Results.csv"
   }
 ]

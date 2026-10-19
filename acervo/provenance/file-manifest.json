@@ -1,6 +1,6 @@
 {
   "archived_at": "2026-10-19",
-  "hash_scope": "Acervo público; distribuição anterior preservada em historico/distribuicao-original-c8aecd4.zip",
+  "hash_scope": "Bytes dos arquivos desta distribuição científica; não constitui registro contemporâneo da execução experimental.",
   "files": [
     {
       "path": ".gitignore",
@@ -14,8 +14,8 @@
     },
     {
       "path": "analysis/ablation/README.md",
-      "bytes": 1881,
-      "sha256": "479071bf818b027484d410fd27214c2d69dd5a9848b91549f5ff0872ee770028"
+      "bytes": 1777,
+      "sha256": "84cd58c0bf92deb66ef823c0e8fbdd26fc4de2d715af72d0e6c62a4c27a9f177"
     },
     {
       "path": "analysis/round-confidence/intervalos_por_rodada.csv",
@@ -24,13 +24,13 @@
     },
     {
       "path": "analysis/round-confidence/README.md",
-      "bytes": 1739,
-      "sha256": "19f91b0a2fbc1292aff56539b465cde26c11542db6fbcab8083d7da9dbde765c"
+      "bytes": 1656,
+      "sha256": "43f69139c2c4dbe10ca082b79aa32ae2f411fb80cd32f326a77ac3b9263ffcc7"
     },
     {
       "path": "analysis/temporal/README.md",
-      "bytes": 1717,
-      "sha256": "4d2262713a3a471bedb21cfddd81960d1e9ffe419d4940c38db09a7c19e8cc7c"
+      "bytes": 1744,
+      "sha256": "9a25b568f60724d4fd0c49ce5437d0d5bf79c4db3c767df9ef0ecd0a78bb32e2"
     },
     {
       "path": "analysis/temporal/selected-seed43.json",
@@ -39,28 +39,28 @@
     },
     {
       "path": "code/audit-b-d/CSAI4IoT_DatasetB_Auditoria_e_Benchmark.ipynb",
-      "bytes": 189734,
-      "sha256": "296a45dde4ec2c40a206c0ecae4f6b8900f3a34d3d69bcd7ad5d402b8745f0f4"
+      "bytes": 190130,
+      "sha256": "63f2f17317bd24702613d1cd1cb6f5a1868f4ddf4710fc11dee2484298e3c0e2"
     },
     {
       "path": "code/audit-b-d/CSAI4IoT_DatasetD_Auditoria_e_Benchmark.ipynb",
-      "bytes": 189615,
-      "sha256": "61da41a4399fdeb357825426a4d30baee75b6c59b94d0f19765c49b6de806f15"
+      "bytes": 190021,
+      "sha256": "c2a7af93e55a393cc5f87b9de7b030352d29a30af4b9c052c013264d4ea24d30"
     },
     {
       "path": "code/cumulative-base-extreme/CSAI4IoT_Cumulative_Final_BaseVsExtreme_100R_Seeds43_52.ipynb",
-      "bytes": 281473,
-      "sha256": "8dcb9abf4192e560309e47fbe75a3b48a52f6ddd1c6144107a71a81db994c6f1"
+      "bytes": 341356,
+      "sha256": "f148361babdbc978f1fe30d087544392452233a3abf0176e2ad86cc81e34b4af"
     },
     {
       "path": "code/dataset-a/CSAI4IoT_DatasetA_Benchmark_Final.ipynb",
-      "bytes": 186118,
-      "sha256": "ce1cbb3a15b355b873fcb7bd9892ada268f6b327f75e61a72095aaa1f65f55d9"
+      "bytes": 186264,
+      "sha256": "69ec2ad289657f6ea14294517882ea217c34269c4448708972ae4d3e21b651dd"
     },
     {
       "path": "code/dataset-c/CSAI4IoT_DatasetC_Benchmark_Complementar.ipynb",
-      "bytes": 189787,
-      "sha256": "53d4106dc8694222be78b9f66e93c464aafd5ef42c25635b68de9e601bf425e0"
+      "bytes": 190214,
+      "sha256": "57194799f02e1b1f720baf79857c023fc911a94ae9a36d203ed015bdc24b6279"
     },
     {
       "path": "code/initial-abcd/Organizacao_Nomes_Geracao_Figuras_v2.ipynb",
@@ -74,8 +74,8 @@
     },
     {
       "path": "code/nbaiot-main/CSAI4IoT_NBaIoT_MixedDevice_9Sources_100R_Seeds43_52_ThesisPressure.ipynb",
-      "bytes": 332941,
-      "sha256": "6ef29dfb7e64acbc0e3389787cf0d662c7facb57658d01e3614780f7f1007e4f"
+      "bytes": 400765,
+      "sha256": "1c6b59a28b0aa4eeea8aba6873866f4df4739430ea4790f0e75e64f7f34199ce"
     },
     {
       "path": "data/audit-b-d/Dataset_B_input.csv",
@@ -238,39 +238,29 @@
       "sha256": "491931e7af1cc1b2da9f06e44a286836adcf9b268aee641e6a28bd99900eb827"
     },
     {
-      "path": "historico/distribuicao-original-c8aecd4.zip",
-      "bytes": 2075650,
-      "sha256": "e65b89a706c0f73c7f5b03bd4397f584e9e1f0eb945c213ab66c8567e8e8243a"
-    },
-    {
       "path": "provenance/dataset-a-run-manifest.json",
-      "bytes": 2399,
-      "sha256": "8108db7b86ae8ca7c396ff00b88b55fbb8133f1ed6194f14a6b60222360efe9f"
+      "bytes": 2465,
+      "sha256": "2f29b0c220cbb1e7b631e6fd62130a20a9b02d3842253ccdfe5b6b40ddab6cd0"
     },
     {
       "path": "provenance/dataset-c-run-manifest.json",
-      "bytes": 1781,
-      "sha256": "9a24478bfcd5fea3e5da7919984702b11110da7cb41c76ee857547027bb2f7d6"
-    },
-    {
-      "path": "provenance/migracao-links.json",
-      "bytes": 8935,
-      "sha256": "d4216bfa219e29a2edfecd8ed0abe28a17ba01792d5e12286b06549e263ec442"
+      "bytes": 1903,
+      "sha256": "553d9193811214719283e5a703a0379a7278412158c927ba581fb44c0bd22678"
     },
     {
       "path": "provenance/notebook-identifiers.json",
-      "bytes": 756,
-      "sha256": "05a4d14806e3d80566305b93525e01f2ad6db4e25fa76f8ad8694b1d44eb2970"
+      "bytes": 757,
+      "sha256": "7b1f8e2d9677f8de5fbdabd83ff7719d2636848866419d62b42e91d078986984"
     },
     {
       "path": "provenance/pacotes-verificados.json",
-      "bytes": 1095261,
-      "sha256": "fe778ec68f374908aae97b4de2901db86f41bb73a8a0c88ed3a9a4e3d7a1db23"
+      "bytes": 974035,
+      "sha256": "55c7d8ad5e1b92eb83333ebfe87c044e565f9577a995c741955c476415ef2400"
     },
     {
       "path": "provenance/source-index.json",
-      "bytes": 8672,
-      "sha256": "1e1018523c3e68b703a6b165c6d91ddb41caa4f3448342250fd6586ef5e6d573"
+      "bytes": 8381,
+      "sha256": "dcba68ab13c7cddedf04a2c22c7cfe0b79b6d91a3ca99c988b3f904fae4282eb"
     },
     {
       "path": "raw/cumulative-base-extreme/README.md",
@@ -294,8 +284,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 1020,
-      "sha256": "d4ba1517a394138a40c0a9e9ebb71586cb435a13ef0e3d498e612bdacf4c1bad"
+      "bytes": 908,
+      "sha256": "d5fb576b8b05299045e33a6dc984af5a2247fd924dae616a04e16fb17bda77f8"
     },
     {
       "path": "results/cumulative-base-extreme/cumulative_base_vs_extreme_statistics.csv",
@@ -1154,8 +1144,8 @@
     },
     {
       "path": "results/initial-campaign/manifest.csv",
-      "bytes": 25915,
-      "sha256": "e5a71f1bd793736ef38b3d8eeb32b4102161053dc86085ab474c9a05bbf99bdf"
+      "bytes": 23584,
+      "sha256": "37c2822a11364ed44a4f6e14cc3930fbcc607230c0355fee3172796fd7326a70"
     },
     {
       "path": "results/initial-campaign/notebooks/benchmark-13012026.ipynb",
@@ -1194,8 +1184,8 @@
     },
     {
       "path": "results/initial-campaign/README.md",
-      "bytes": 1630,
-      "sha256": "e34f0ed361e2c3bf8913d929682e1ce024093d4bb52c58234abad3efbcc743f8"
+      "bytes": 1510,
+      "sha256": "fae4c0ff1dbbbd315ae9cb0389015681936e4b6550dd01dfedb24a3d2717a03b"
     },
     {
       "path": "results/initial-campaign/reexecutions-2026-02/ecobee-mirai/Cumulative.csv",
@@ -1219,8 +1209,8 @@
     },
     {
       "path": "results/initial-campaign/reexecutions-2026-02/ecobee-mirai/sources.json",
-      "bytes": 1024,
-      "sha256": "174244ef68e2f412412c685a36f040935fb654ae649a2583dec28f735f207ee3"
+      "bytes": 837,
+      "sha256": "5da53105886b17e4bd002f89d244db25ea81f7728a9d7518e428f42f23f3b5ac"
     },
     {
       "path": "results/initial-campaign/reexecutions-2026-02/ecobee-mirai/Sybil.csv",

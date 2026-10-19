@@ -11,4 +11,4 @@ Este diretório centraliza códigos, entradas, resultados e análises. Os arquiv
 - [Inventário e hashes dos 2.377 arquivos](provenance/pacotes-verificados.json)
 - [Reprodutibilidade e limitações](docs/REPRODUCIBILITY.md)
 
-As campanhas iniciais e finais são distintas; B e D não integram a inferência final. A distribuição original do repositório experimental foi preservada integralmente em [historico](historico/). Os procedimentos de execução e as limitações metodológicas são descritos em [Reprodutibilidade](docs/REPRODUCIBILITY.md).
+As campanhas iniciais e finais são distintas; B e D não integram a inferência final. Os procedimentos de execução e as limitações metodológicas são descritos em [Reprodutibilidade](docs/REPRODUCIBILITY.md).

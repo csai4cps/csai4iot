@@ -1,6 +1,6 @@
 {
   "archived_at": "2026-10-04",
-  "hash_scope": "bytes dos arquivos nesta distribuição; não hash contemporâneo de execução",
+  "hash_scope": "Bytes dos arquivos desta distribuição científica; não constitui registro contemporâneo da execução experimental.",
   "files": [
     {
       "path": ".gitignore",
@@ -9,13 +9,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 941,
-      "sha256": "ea27a21aaef9c00a42d418dac2adfd042d19e912c604f055d901d707325027b5"
+      "bytes": 892,
+      "sha256": "88945f8546ea75074d09ec702fbcd90790c1d7831ddee7449e7c6e36bed0f851"
     },
     {
       "path": "analysis/ablation/README.md",
-      "bytes": 1881,
-      "sha256": "479071bf818b027484d410fd27214c2d69dd5a9848b91549f5ff0872ee770028"
+      "bytes": 1777,
+      "sha256": "84cd58c0bf92deb66ef823c0e8fbdd26fc4de2d715af72d0e6c62a4c27a9f177"
     },
     {
       "path": "analysis/ablation/contrastes_finais.csv",
@@ -24,8 +24,8 @@
     },
     {
       "path": "analysis/round-confidence/README.md",
-      "bytes": 1739,
-      "sha256": "19f91b0a2fbc1292aff56539b465cde26c11542db6fbcab8083d7da9dbde765c"
+      "bytes": 1656,
+      "sha256": "43f69139c2c4dbe10ca082b79aa32ae2f411fb80cd32f326a77ac3b9263ffcc7"
     },
     {
       "path": "analysis/round-confidence/intervalos_por_rodada.csv",
@@ -34,8 +34,8 @@
     },
     {
       "path": "analysis/temporal/README.md",
-      "bytes": 1717,
-      "sha256": "4d2262713a3a471bedb21cfddd81960d1e9ffe419d4940c38db09a7c19e8cc7c"
+      "bytes": 1744,
+      "sha256": "9a25b568f60724d4fd0c49ce5437d0d5bf79c4db3c767df9ef0ecd0a78bb32e2"
     },
     {
       "path": "analysis/temporal/selected-seed43.json",
@@ -44,33 +44,33 @@
     },
     {
       "path": "code/audit-b-d/CSAI4IoT_DatasetB_Auditoria_e_Benchmark.ipynb",
-      "bytes": 189686,
-      "sha256": "919f0c74941f0b80ca175dc117d8dce74fbbf0d0467b7ab2798bd324d79759e1"
+      "bytes": 190130,
+      "sha256": "63f2f17317bd24702613d1cd1cb6f5a1868f4ddf4710fc11dee2484298e3c0e2"
     },
     {
       "path": "code/audit-b-d/CSAI4IoT_DatasetD_Auditoria_e_Benchmark.ipynb",
-      "bytes": 189567,
-      "sha256": "2c7cb958ad018296b5fabe33308d1f7551759450ff45018cae346ef9105e6f0a"
+      "bytes": 190021,
+      "sha256": "c2a7af93e55a393cc5f87b9de7b030352d29a30af4b9c052c013264d4ea24d30"
     },
     {
       "path": "code/cumulative-base-extreme/CSAI4IoT_Cumulative_Final_BaseVsExtreme_100R_Seeds43_52.ipynb",
-      "bytes": 281473,
-      "sha256": "8dcb9abf4192e560309e47fbe75a3b48a52f6ddd1c6144107a71a81db994c6f1"
+      "bytes": 341356,
+      "sha256": "f148361babdbc978f1fe30d087544392452233a3abf0176e2ad86cc81e34b4af"
     },
     {
       "path": "code/dataset-a/CSAI4IoT_DatasetA_Benchmark_Final.ipynb",
-      "bytes": 186016,
-      "sha256": "f9b3e45f1351cd5f7ee12d376c7dde339aa180eee40fc8b6316c5a949a312aaf"
+      "bytes": 186264,
+      "sha256": "69ec2ad289657f6ea14294517882ea217c34269c4448708972ae4d3e21b651dd"
     },
     {
       "path": "code/dataset-c/CSAI4IoT_DatasetC_Benchmark_Complementar.ipynb",
-      "bytes": 189737,
-      "sha256": "c7c5f6e786c5fb772902c9cbeddb849abb76e98ed5e0c1f3d74eda69c1ab6249"
+      "bytes": 190214,
+      "sha256": "57194799f02e1b1f720baf79857c023fc911a94ae9a36d203ed015bdc24b6279"
     },
     {
       "path": "code/nbaiot-main/CSAI4IoT_NBaIoT_MixedDevice_9Sources_100R_Seeds43_52_ThesisPressure.ipynb",
-      "bytes": 332941,
-      "sha256": "6ef29dfb7e64acbc0e3389787cf0d662c7facb57658d01e3614780f7f1007e4f"
+      "bytes": 400765,
+      "sha256": "1c6b59a28b0aa4eeea8aba6873866f4df4739430ea4790f0e75e64f7f34199ce"
     },
     {
       "path": "data/audit-b-d/Dataset_B_input.csv",
@@ -99,23 +99,23 @@
     },
     {
       "path": "provenance/dataset-a-run-manifest.json",
-      "bytes": 2399,
-      "sha256": "8108db7b86ae8ca7c396ff00b88b55fbb8133f1ed6194f14a6b60222360efe9f"
+      "bytes": 2465,
+      "sha256": "2f29b0c220cbb1e7b631e6fd62130a20a9b02d3842253ccdfe5b6b40ddab6cd0"
     },
     {
       "path": "provenance/dataset-c-run-manifest.json",
-      "bytes": 1781,
-      "sha256": "9a24478bfcd5fea3e5da7919984702b11110da7cb41c76ee857547027bb2f7d6"
+      "bytes": 1903,
+      "sha256": "553d9193811214719283e5a703a0379a7278412158c927ba581fb44c0bd22678"
     },
     {
       "path": "provenance/notebook-identifiers.json",
-      "bytes": 756,
-      "sha256": "05a4d14806e3d80566305b93525e01f2ad6db4e25fa76f8ad8694b1d44eb2970"
+      "bytes": 757,
+      "sha256": "7b1f8e2d9677f8de5fbdabd83ff7719d2636848866419d62b42e91d078986984"
     },
     {
       "path": "provenance/source-index.json",
-      "bytes": 7146,
-      "sha256": "cdf9113f6f0b8fb40a7fa19485551ae1e0921de5c0c0cd16015d38d4fc7ec090"
+      "bytes": 8381,
+      "sha256": "dcba68ab13c7cddedf04a2c22c7cfe0b79b6d91a3ca99c988b3f904fae4282eb"
     },
     {
       "path": "results/cumulative-base-extreme/RUN_COMPLETED.csv",
