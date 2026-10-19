@@ -14,8 +14,8 @@
     },
     {
       "path": "analysis/ablation/README.md",
-      "bytes": 2337,
-      "sha256": "3c24e91e9443ba33ec5a72ff209c46c72f92108310313bb9bd9c3c286252b5b5"
+      "bytes": 1881,
+      "sha256": "479071bf818b027484d410fd27214c2d69dd5a9848b91549f5ff0872ee770028"
     },
     {
       "path": "analysis/round-confidence/intervalos_por_rodada.csv",
@@ -24,13 +24,13 @@
     },
     {
       "path": "analysis/round-confidence/README.md",
-      "bytes": 1810,
-      "sha256": "6a0c1df8a3920c4169d53e0cf1bcd3b8d1e71d49a6fc002b33919c0527b327c1"
+      "bytes": 1739,
+      "sha256": "19f91b0a2fbc1292aff56539b465cde26c11542db6fbcab8083d7da9dbde765c"
     },
     {
       "path": "analysis/temporal/README.md",
-      "bytes": 2115,
-      "sha256": "36c2f3082a7afaff54d6e7f9c2b82d7c62b4a1f9b421344e1d7f0ad8fb698c0f"
+      "bytes": 1717,
+      "sha256": "4d2262713a3a471bedb21cfddd81960d1e9ffe419d4940c38db09a7c19e8cc7c"
     },
     {
       "path": "analysis/temporal/selected-seed43.json",
@@ -234,8 +234,8 @@
     },
     {
       "path": "docs/REPRODUCIBILITY.md",
-      "bytes": 2873,
-      "sha256": "34f199b571f4744709bd346f6844ded67f2b2301ce8d66ef7b48c4700475471a"
+      "bytes": 2680,
+      "sha256": "491931e7af1cc1b2da9f06e44a286836adcf9b268aee641e6a28bd99900eb827"
     },
     {
       "path": "historico/distribuicao-original-c8aecd4.zip",
@@ -294,8 +294,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 1127,
-      "sha256": "ead0a39380903fdf97ad64ce00b03edc72d1e09b965c32380b81288c76561c5b"
+      "bytes": 1020,
+      "sha256": "d4ba1517a394138a40c0a9e9ebb71586cb435a13ef0e3d498e612bdacf4c1bad"
     },
     {
       "path": "results/cumulative-base-extreme/cumulative_base_vs_extreme_statistics.csv",
@@ -1194,8 +1194,8 @@
     },
     {
       "path": "results/initial-campaign/README.md",
-      "bytes": 1690,
-      "sha256": "462cb9cd5f9a6f1c75453296b5caa090bd9e68c9b09d0d7595546f359ca8af90"
+      "bytes": 1630,
+      "sha256": "e34f0ed361e2c3bf8913d929682e1ce024093d4bb52c58234abad3efbcc743f8"
     },
     {
       "path": "results/initial-campaign/reexecutions-2026-02/ecobee-mirai/Cumulative.csv",
@@ -1209,8 +1209,8 @@
     },
     {
       "path": "results/initial-campaign/reexecutions-2026-02/ecobee-mirai/README.md",
-      "bytes": 483,
-      "sha256": "351764968f5832413898ef9f52c6a9c758fe45548aeae00412c8b050ed85b808"
+      "bytes": 467,
+      "sha256": "bac3a39ccceac60004a6a70a169324a1ed69d1a85e330331c48d679991c9c152"
     },
     {
       "path": "results/initial-campaign/reexecutions-2026-02/ecobee-mirai/Scaling.csv",

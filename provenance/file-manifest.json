@@ -9,13 +9,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 3326,
-      "sha256": "83e0f1e904af7ed11f4ed91fd7a6249f4e117c2daad136fbc644a3b70a4ab21c"
+      "bytes": 941,
+      "sha256": "ea27a21aaef9c00a42d418dac2adfd042d19e912c604f055d901d707325027b5"
     },
     {
       "path": "analysis/ablation/README.md",
-      "bytes": 2292,
-      "sha256": "3352af6c1c11c427a4730d5e3b23486a78d76c4d55a6e05af41c14d1ff75b1c0"
+      "bytes": 1881,
+      "sha256": "479071bf818b027484d410fd27214c2d69dd5a9848b91549f5ff0872ee770028"
     },
     {
       "path": "analysis/ablation/contrastes_finais.csv",
@@ -24,8 +24,8 @@
     },
     {
       "path": "analysis/round-confidence/README.md",
-      "bytes": 1776,
-      "sha256": "1204cc54b11ddfd62cd0ef32975bdc4113e1b820cfcc7be10ef6f86ab6a9980b"
+      "bytes": 1739,
+      "sha256": "19f91b0a2fbc1292aff56539b465cde26c11542db6fbcab8083d7da9dbde765c"
     },
     {
       "path": "analysis/round-confidence/intervalos_por_rodada.csv",
@@ -34,8 +34,8 @@
     },
     {
       "path": "analysis/temporal/README.md",
-      "bytes": 2099,
-      "sha256": "6262454113d163d8f74bba27431b9ff4875570fc7b8bf04458d3633f514a0818"
+      "bytes": 1717,
+      "sha256": "4d2262713a3a471bedb21cfddd81960d1e9ffe419d4940c38db09a7c19e8cc7c"
     },
     {
       "path": "analysis/temporal/selected-seed43.json",
@@ -94,8 +94,8 @@
     },
     {
       "path": "docs/REPRODUCIBILITY.md",
-      "bytes": 2670,
-      "sha256": "2703ddefa7aeb2b2977b661c2d1efd84eb1b7879061502c75cffccb996102e43"
+      "bytes": 357,
+      "sha256": "9b88cbdec8497193f77aa234e710ed3e75ba63c557556c6bcb126d0a5f69ca68"
     },
     {
       "path": "provenance/dataset-a-run-manifest.json",

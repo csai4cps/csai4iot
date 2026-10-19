@@ -21,4 +21,4 @@ Os nomes originais dos CSV foram preservados. O prefixo histórico `Benchmark_Re
 - [CSAI4CPS/Datasets/Resultados](early-runs/)
 - Os links individuais dos notebooks e resultados constam em `manifest.csv`.
 
-Os dados experimentais foram preservados; links de consulta foram atualizados. Os notebooks podem conter caminhos originais do Google Drive; esses caminhos fazem parte do registro histórico da execução.
+Os notebooks incluem o código e as saídas das respectivas execuções. Os caminhos de entrada e saída devem ser configurados de acordo com o ambiente de reprodução.
