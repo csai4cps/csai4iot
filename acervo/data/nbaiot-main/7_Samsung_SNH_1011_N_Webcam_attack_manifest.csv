@@ -1,0 +1,5 @@
+Device_ID,Device_Name,file,rows,status
+7,Samsung_SNH_1011_N_Webcam,7.gafgyt.combo.csv,58669,USED
+7,Samsung_SNH_1011_N_Webcam,7.gafgyt.scan.csv,27698,USED
+7,Samsung_SNH_1011_N_Webcam,7.gafgyt.tcp.csv,97783,USED
+7,Samsung_SNH_1011_N_Webcam,7.gafgyt.udp.csv,110617,USED

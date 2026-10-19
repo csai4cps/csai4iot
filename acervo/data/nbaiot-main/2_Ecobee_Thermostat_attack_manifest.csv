@@ -1,0 +1,11 @@
+Device_ID,Device_Name,file,rows,status
+2,Ecobee_Thermostat,2.gafgyt.combo.csv,53012,USED
+2,Ecobee_Thermostat,2.gafgyt.junk.csv,30312,USED
+2,Ecobee_Thermostat,2.gafgyt.scan.csv,27494,USED
+2,Ecobee_Thermostat,2.gafgyt.tcp.csv,95021,USED
+2,Ecobee_Thermostat,2.gafgyt.udp.csv,104791,USED
+2,Ecobee_Thermostat,2.mirai.ack.csv,113285,USED
+2,Ecobee_Thermostat,2.mirai.scan.csv,43192,USED
+2,Ecobee_Thermostat,2.mirai.syn.csv,116807,USED
+2,Ecobee_Thermostat,2.mirai.udp.csv,151481,USED
+2,Ecobee_Thermostat,2.mirai.udpplain.csv,87368,USED

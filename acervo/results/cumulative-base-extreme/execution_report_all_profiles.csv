@@ -1,0 +1,5 @@
+Dataset,Attack,Cumulative_Profile,Partition_Mode,Dirichlet_Alpha,Seeds,Seed_Start,Seed_End,Trust_Threshold,Strategies,Rounds,Rows,Features,Epsilon_Start_Active,Epsilon_Final,Persistent_Attackers,Total_Execution_Time_Seconds,Total_Execution_Time_Minutes
+NBaIoT_MixedDevice_9Sources_Balanced,Cumulative,Base,IID,,10,43,52,0.05,9,100,18000,115,0.2,0.2,1,4649.3011287360005,77.4883521456
+NBaIoT_MixedDevice_9Sources_Balanced,Cumulative,Base,NonIID_Dirichlet,0.5,10,43,52,0.05,9,100,18000,115,0.2,0.2,1,4433.551312832001,73.89252188053335
+NBaIoT_MixedDevice_9Sources_Balanced,Cumulative,Extreme,IID,,10,43,52,0.05,9,100,18000,115,0.2,4.0,1,4371.677044843,72.86128408071666
+NBaIoT_MixedDevice_9Sources_Balanced,Cumulative,Extreme,NonIID_Dirichlet,0.5,10,43,52,0.05,9,100,18000,115,0.2,4.0,1,4261.399358033999,71.0233226339

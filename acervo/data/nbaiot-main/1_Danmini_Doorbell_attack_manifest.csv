@@ -1,0 +1,11 @@
+Device_ID,Device_Name,file,rows,status
+1,Danmini_Doorbell,1.gafgyt.combo.csv,59718,USED
+1,Danmini_Doorbell,1.gafgyt.junk.csv,29068,USED
+1,Danmini_Doorbell,1.gafgyt.scan.csv,29849,USED
+1,Danmini_Doorbell,1.gafgyt.tcp.csv,92141,USED
+1,Danmini_Doorbell,1.gafgyt.udp.csv,105874,USED
+1,Danmini_Doorbell,1.mirai.ack.csv,102195,USED
+1,Danmini_Doorbell,1.mirai.scan.csv,107685,USED
+1,Danmini_Doorbell,1.mirai.syn.csv,122573,USED
+1,Danmini_Doorbell,1.mirai.udp.csv,237665,USED
+1,Danmini_Doorbell,1.mirai.udpplain.csv,81982,USED

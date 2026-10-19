@@ -1,0 +1,6 @@
+Device_ID,Device_Name,file,rows,status
+3,Ennio_Doorbell,3.gafgyt.combo.csv,53014,USED
+3,Ennio_Doorbell,3.gafgyt.junk.csv,29797,USED
+3,Ennio_Doorbell,3.gafgyt.scan.csv,28120,USED
+3,Ennio_Doorbell,3.gafgyt.tcp.csv,101536,USED
+3,Ennio_Doorbell,3.gafgyt.udp.csv,103933,USED

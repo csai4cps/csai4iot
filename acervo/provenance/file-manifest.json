@@ -1,0 +1,1301 @@
+{
+  "archived_at": "2026-10-19",
+  "hash_scope": "Acervo público; distribuição anterior preservada em historico/distribuicao-original-c8aecd4.zip",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 66,
+      "sha256": "57cdfc9444f1bc5bd048ecf22fa062a65e577d7b87b9f9435ebfe531eade2bae"
+    },
+    {
+      "path": "analysis/ablation/contrastes_finais.csv",
+      "bytes": 8729,
+      "sha256": "41eb4d5dd569a7dd4cf4a01c115228cbb6b3a6e25af23a51debfbdd3513accc1"
+    },
+    {
+      "path": "analysis/ablation/README.md",
+      "bytes": 2337,
+      "sha256": "3c24e91e9443ba33ec5a72ff209c46c72f92108310313bb9bd9c3c286252b5b5"
+    },
+    {
+      "path": "analysis/round-confidence/intervalos_por_rodada.csv",
+      "bytes": 1470967,
+      "sha256": "45a168524c245c4d7cdfa287ce1f6dd8f04205948016af87b853f04e8c42ae8a"
+    },
+    {
+      "path": "analysis/round-confidence/README.md",
+      "bytes": 1810,
+      "sha256": "6a0c1df8a3920c4169d53e0cf1bcd3b8d1e71d49a6fc002b33919c0527b327c1"
+    },
+    {
+      "path": "analysis/temporal/README.md",
+      "bytes": 2115,
+      "sha256": "36c2f3082a7afaff54d6e7f9c2b82d7c62b4a1f9b421344e1d7f0ad8fb698c0f"
+    },
+    {
+      "path": "analysis/temporal/selected-seed43.json",
+      "bytes": 2612725,
+      "sha256": "418a60d4f1adab305c66e9077fa55f785fa1571a43ef76cb5e3f681d86dead84"
+    },
+    {
+      "path": "code/audit-b-d/CSAI4IoT_DatasetB_Auditoria_e_Benchmark.ipynb",
+      "bytes": 189734,
+      "sha256": "296a45dde4ec2c40a206c0ecae4f6b8900f3a34d3d69bcd7ad5d402b8745f0f4"
+    },
+    {
+      "path": "code/audit-b-d/CSAI4IoT_DatasetD_Auditoria_e_Benchmark.ipynb",
+      "bytes": 189615,
+      "sha256": "61da41a4399fdeb357825426a4d30baee75b6c59b94d0f19765c49b6de806f15"
+    },
+    {
+      "path": "code/cumulative-base-extreme/CSAI4IoT_Cumulative_Final_BaseVsExtreme_100R_Seeds43_52.ipynb",
+      "bytes": 281473,
+      "sha256": "8dcb9abf4192e560309e47fbe75a3b48a52f6ddd1c6144107a71a81db994c6f1"
+    },
+    {
+      "path": "code/dataset-a/CSAI4IoT_DatasetA_Benchmark_Final.ipynb",
+      "bytes": 186118,
+      "sha256": "ce1cbb3a15b355b873fcb7bd9892ada268f6b327f75e61a72095aaa1f65f55d9"
+    },
+    {
+      "path": "code/dataset-c/CSAI4IoT_DatasetC_Benchmark_Complementar.ipynb",
+      "bytes": 189787,
+      "sha256": "53d4106dc8694222be78b9f66e93c464aafd5ef42c25635b68de9e601bf425e0"
+    },
+    {
+      "path": "code/initial-abcd/Organizacao_Nomes_Geracao_Figuras_v2.ipynb",
+      "bytes": 113424,
+      "sha256": "32e6cd8b6f040b2886fe5f2522c7d29e7bed405491e0ed5490083e98957edf68"
+    },
+    {
+      "path": "code/initial-abcd/Unified_FL_Benchmark_Pipeline_CSAI4CPS.ipynb",
+      "bytes": 127501,
+      "sha256": "83ab84c798ef9b56fb0e83af5f4358454397cb40afc90293379061ded0a0a35f"
+    },
+    {
+      "path": "code/nbaiot-main/CSAI4IoT_NBaIoT_MixedDevice_9Sources_100R_Seeds43_52_ThesisPressure.ipynb",
+      "bytes": 332941,
+      "sha256": "6ef29dfb7e64acbc0e3389787cf0d662c7facb57658d01e3614780f7f1007e4f"
+    },
+    {
+      "path": "data/audit-b-d/Dataset_B_input.csv",
+      "bytes": 178232,
+      "sha256": "7a0200da7e511624c0ef9db9114890aac72cbc6b7a4b62aa24178ddf66f66f3e"
+    },
+    {
+      "path": "data/audit-b-d/Dataset_D_input.csv",
+      "bytes": 11354,
+      "sha256": "55626b65b9bbc4b85dae46ef1a84382f4f77f4ee52d673b9e9a8ef129df20499"
+    },
+    {
+      "path": "data/dataset-a/Dataset_A_CPS-NetFlow-IDS.csv",
+      "bytes": 1282415,
+      "sha256": "7d5c0cff6701ccb59a865a902dd5a5f423e02455b5a69f4fa6343a484170f113"
+    },
+    {
+      "path": "data/dataset-c/Dataset_C_input.csv",
+      "bytes": 65291,
+      "sha256": "3c4d626a44580b20ce3bdfad3b6156363f72f8bde7034f1522099daf7b4f054e"
+    },
+    {
+      "path": "data/nbaiot-main/1_Danmini_Doorbell_attack_manifest.csv",
+      "bytes": 519,
+      "sha256": "8b1309b18a3986d2212d91ee5e18e155a6f17fb1f98f13ae177ada520f5bc380"
+    },
+    {
+      "path": "data/nbaiot-main/2_Ecobee_Thermostat_attack_manifest.csv",
+      "bytes": 528,
+      "sha256": "3e6aa49b075bdf47210fa903a1df3908770620a1eca9244bfe75f5a8fd1175cc"
+    },
+    {
+      "path": "data/nbaiot-main/3_Ennio_Doorbell_attack_manifest.csv",
+      "bytes": 270,
+      "sha256": "04d664bd99ab9c9ecd3998f09459818c2d3cb73f64ffb648318e7307aef13478"
+    },
+    {
+      "path": "data/nbaiot-main/4_Philips_B120N10_Baby_Monitor_attack_manifest.csv",
+      "bytes": 638,
+      "sha256": "b27c19b15c0e025943fa8e4dcab3fa2d0e3f5e6724cb6a3e0d470ddf91d45bde"
+    },
+    {
+      "path": "data/nbaiot-main/5_Provision_PT_737E_Security_Camera_attack_manifest.csv",
+      "bytes": 687,
+      "sha256": "aeebc710ab84a8b053a65d124362d47b52d6c2bb62bf971260334102d884d3c8"
+    },
+    {
+      "path": "data/nbaiot-main/6_Provision_PT_838_Security_Camera_attack_manifest.csv",
+      "bytes": 676,
+      "sha256": "4ef3146f64de7eb070d856f7c23350aef930452dee628046936f053e83b81a11"
+    },
+    {
+      "path": "data/nbaiot-main/7_Samsung_SNH_1011_N_Webcam_attack_manifest.csv",
+      "bytes": 267,
+      "sha256": "3cf4800c3548370888ef73b21fdc91d96bc2a171e3781a3fe7ac36ebe4116e4a"
+    },
+    {
+      "path": "data/nbaiot-main/8_SimpleHome_XCS7_1002_WHT_Security_Camera_attack_manifest.csv",
+      "bytes": 758,
+      "sha256": "f1ec07db5c197efc956f4d130f94b254a1bdbfef83e6f14dec89bc2d80c1b124"
+    },
+    {
+      "path": "data/nbaiot-main/9_SimpleHome_XCS7_1003_WHT_Security_Camera_attack_manifest.csv",
+      "bytes": 758,
+      "sha256": "4b82a202e6dc495c95223464ccf0b91df98984cc44bcc3c38363c10e107f2daf"
+    },
+    {
+      "path": "data/nbaiot-main/Danmini_Doorbell_attack_manifest.csv",
+      "bytes": 534,
+      "sha256": "893e8835dc14845b5fce1217f3b4c9cd050385a22176ac4e8db138d035947064"
+    },
+    {
+      "path": "data/nbaiot-main/device_info_used.csv",
+      "bytes": 292,
+      "sha256": "014a5639d8eab6583b985e16ebedd4b3f2556e8943522a5c758da10b503aa552"
+    },
+    {
+      "path": "data/nbaiot-main/device_preparation_manifest.csv",
+      "bytes": 3039,
+      "sha256": "54892a7ad3508c0f1ea2cf370fd13137c8d88d8d5740e793082f1948316a2030"
+    },
+    {
+      "path": "data/nbaiot-main/Ecobee_Thermostat_attack_manifest.csv",
+      "bytes": 543,
+      "sha256": "298c93ca155af9aa0d190c6765c60fb1958d99c6ac98168a86877876958d071f"
+    },
+    {
+      "path": "data/nbaiot-main/Ennio_Doorbell_attack_manifest.csv",
+      "bytes": 270,
+      "sha256": "3398128db94b95bc2b8258f400fe4526d1d0a3a812b51221d0bccb0d86b71c1d"
+    },
+    {
+      "path": "data/nbaiot-main/NBaIoT_Danmini_Doorbell_Balanced2K.csv",
+      "bytes": 2228920,
+      "sha256": "af87aa41e01854b816c46bff9c33ab822147ef4ea920cb9465b12bca1920d1c1"
+    },
+    {
+      "path": "data/nbaiot-main/NBaIoT_Ecobee_Thermostat_Balanced2K.csv",
+      "bytes": 2341593,
+      "sha256": "50c0553a53270e04c36286da46611ede40306a6a816b18ca5a9f9721d5846394"
+    },
+    {
+      "path": "data/nbaiot-main/NBaIoT_Ennio_Doorbell_Balanced2K.csv",
+      "bytes": 1994855,
+      "sha256": "f699863e71c4fa457d5de93828d7cc2f9a395e4fdc8ae9ce38db42a995dd1e4d"
+    },
+    {
+      "path": "data/nbaiot-main/NBaIoT_Philips_B120N10_Baby_Monitor_Balanced2K.csv",
+      "bytes": 2405228,
+      "sha256": "dac57fca99ffe7496500776327275316478618e99d3204f3fae2593b3d9f581f"
+    },
+    {
+      "path": "data/nbaiot-main/NBaIoT_Provision_PT_737E_Security_Camera_Balanced2K.csv",
+      "bytes": 2234289,
+      "sha256": "ecc9e64a820c15f4aea50d98f750454dbe3aa8e48841f0cfd4370ea3d14cce8a"
+    },
+    {
+      "path": "data/nbaiot-main/NBaIoT_Provision_PT_838_Security_Camera_Balanced2K.csv",
+      "bytes": 2228937,
+      "sha256": "c97ce8c1f40bf32807321406f2506d2fa3a578a020454678e081f001fd450b10"
+    },
+    {
+      "path": "data/nbaiot-main/NBaIoT_Samsung_SNH_1011_N_Webcam_Balanced2K.csv",
+      "bytes": 1977899,
+      "sha256": "2ed7a232fc7d4cfa2905a1f041884a4f97aaaa78ab1c1f1aef60b072dfae9b0f"
+    },
+    {
+      "path": "data/nbaiot-main/NBaIoT_SimpleHome_XCS7_1002_WHT_Security_Camera_Balanced2K.csv",
+      "bytes": 2299386,
+      "sha256": "86ee0f37ef2598d1b4dd0e44a7a919b4bfc838a151dce53c655ad04fed8017ad"
+    },
+    {
+      "path": "data/nbaiot-main/NBaIoT_SimpleHome_XCS7_1003_WHT_Security_Camera_Balanced2K.csv",
+      "bytes": 2217107,
+      "sha256": "b70067e8d0dfb30786d378f6128449df2d4cf51a99e83faa0c7ea7f10415efd0"
+    },
+    {
+      "path": "data/nbaiot-main/Philips_B120N10_Baby_Monitor_attack_manifest.csv",
+      "bytes": 653,
+      "sha256": "738b315446e3cef6f586f02d5f2487cbcf64420622a7db30c8a6a85faa4848f9"
+    },
+    {
+      "path": "data/preparation/dataset_b_curation_report.csv",
+      "bytes": 640,
+      "sha256": "35c651d05253e8cb4a34e4147719ae25cf4af1aee071827f2665331720f99104"
+    },
+    {
+      "path": "data/preparation/dataset_c_enrichment_report.csv",
+      "bytes": 513,
+      "sha256": "8556cd735fb8655a2450a5bd7ec5bdbd030d45fd5d0df6fe2ffb3443b5fb7a43"
+    },
+    {
+      "path": "data/preparation/dataset_d_curation_report.csv",
+      "bytes": 636,
+      "sha256": "e1e027ea9dd55ced242a396cfe9cf2223bd3e17d023c05321df18f4cbcd06f15"
+    },
+    {
+      "path": "docs/REPRODUCIBILITY.md",
+      "bytes": 2873,
+      "sha256": "34f199b571f4744709bd346f6844ded67f2b2301ce8d66ef7b48c4700475471a"
+    },
+    {
+      "path": "historico/distribuicao-original-c8aecd4.zip",
+      "bytes": 2075650,
+      "sha256": "e65b89a706c0f73c7f5b03bd4397f584e9e1f0eb945c213ab66c8567e8e8243a"
+    },
+    {
+      "path": "provenance/dataset-a-run-manifest.json",
+      "bytes": 2399,
+      "sha256": "8108db7b86ae8ca7c396ff00b88b55fbb8133f1ed6194f14a6b60222360efe9f"
+    },
+    {
+      "path": "provenance/dataset-c-run-manifest.json",
+      "bytes": 1781,
+      "sha256": "9a24478bfcd5fea3e5da7919984702b11110da7cb41c76ee857547027bb2f7d6"
+    },
+    {
+      "path": "provenance/migracao-links.json",
+      "bytes": 8935,
+      "sha256": "d4216bfa219e29a2edfecd8ed0abe28a17ba01792d5e12286b06549e263ec442"
+    },
+    {
+      "path": "provenance/notebook-identifiers.json",
+      "bytes": 756,
+      "sha256": "05a4d14806e3d80566305b93525e01f2ad6db4e25fa76f8ad8694b1d44eb2970"
+    },
+    {
+      "path": "provenance/pacotes-verificados.json",
+      "bytes": 1095261,
+      "sha256": "fe778ec68f374908aae97b4de2901db86f41bb73a8a0c88ed3a9a4e3d7a1db23"
+    },
+    {
+      "path": "provenance/source-index.json",
+      "bytes": 8672,
+      "sha256": "1e1018523c3e68b703a6b165c6d91ddb41caa4f3448342250fd6586ef5e6d573"
+    },
+    {
+      "path": "raw/cumulative-base-extreme/README.md",
+      "bytes": 470,
+      "sha256": "ac2ea4911ccdf11c9f9a9e6a55cff7cc724f35add8478c7f583009175e574452"
+    },
+    {
+      "path": "raw/dataset-a/README.md",
+      "bytes": 442,
+      "sha256": "db2293fbeaa07a4ed6efd3536475ad12fc13a7322e24029a320d4140e306c543"
+    },
+    {
+      "path": "raw/dataset-c/README.md",
+      "bytes": 442,
+      "sha256": "3571e850df209123afaa6f37cab5b13ec3238de7bec484cfca6c378b36c2fb63"
+    },
+    {
+      "path": "raw/nbaiot-main/README.md",
+      "bytes": 446,
+      "sha256": "fd4533431948f6f04e8a53246c6d69732e9bf32e632dc7cfab9c2ec0202d6270"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1127,
+      "sha256": "ead0a39380903fdf97ad64ce00b03edc72d1e09b965c32380b81288c76561c5b"
+    },
+    {
+      "path": "results/cumulative-base-extreme/cumulative_base_vs_extreme_statistics.csv",
+      "bytes": 11995,
+      "sha256": "72e53c8ef00058ee83c6c1d96e7e959ee8d39d160051aae29da612a6cf9ec3eb"
+    },
+    {
+      "path": "results/cumulative-base-extreme/cumulative_base_vs_extreme_thesis_focus_adaptive.csv",
+      "bytes": 2582,
+      "sha256": "c5585ed6d727a2cea0e85ee41e618e72e0ba3edf34d15cce1b82bb2f488d225e"
+    },
+    {
+      "path": "results/cumulative-base-extreme/cumulative_final_metrics_by_seed.csv",
+      "bytes": 75406,
+      "sha256": "e8908fcd2e718ccf87c2a0d1f98cb8e25a01fdc4c1d744c1e0395bb43543d2b6"
+    },
+    {
+      "path": "results/cumulative-base-extreme/cumulative_stress_breakpoints_by_seed.csv",
+      "bytes": 86077,
+      "sha256": "c05147e58ceb80153a795c0be0386e3eae727f70f316a7a36612e42f31a8dca5"
+    },
+    {
+      "path": "results/cumulative-base-extreme/cumulative_stress_profile.csv",
+      "bytes": 5319,
+      "sha256": "96fcc87a7f6135f7e9f99e14657b9b8cb8fd4cfa5c0f20d9c0b2197ffa9c81ee"
+    },
+    {
+      "path": "results/cumulative-base-extreme/cumulative_stress_summary.csv",
+      "bytes": 9025,
+      "sha256": "beac4c1b58c9089a2ce56acd2bd3f10c8cfced20503520fcc2ddd1a115612fcf"
+    },
+    {
+      "path": "results/cumulative-base-extreme/cumulative_temporal_metrics_by_seed.csv",
+      "bytes": 21600,
+      "sha256": "87a7a13e6de1e58894c6f7e60e2e3ebb1c9ec14e0e7dc96f9480d5076bf26aaf"
+    },
+    {
+      "path": "results/cumulative-base-extreme/execution_report_all_profiles.csv",
+      "bytes": 817,
+      "sha256": "29086aa4b534f2a2ab3150731c5e1a91342fee04c42165187b5f8db80db29c68"
+    },
+    {
+      "path": "results/cumulative-base-extreme/harmonization_manifest.csv",
+      "bytes": 17607,
+      "sha256": "e5f22344cb111ea64987d193a6ffcbaa300bbd38d4e433dbf46cd93781f388e4"
+    },
+    {
+      "path": "results/cumulative-base-extreme/mixed_device_source_manifest.csv",
+      "bytes": 1087,
+      "sha256": "641dee4111df1fbaf3840d66cef49f6bb4836e2054e4a197b6f9b5163b0e5921"
+    },
+    {
+      "path": "results/cumulative-base-extreme/RUN_COMPLETED.csv",
+      "bytes": 318,
+      "sha256": "c25bb9db92c346dffa146a2e7d82cf139c68efe1ae86d8e8498e17a4fca18f12"
+    },
+    {
+      "path": "results/cumulative-base-extreme/statistics/descriptive_ci95.csv",
+      "bytes": 42105,
+      "sha256": "e57d697b3fe1592969e9c743b6ffdf8c6face6c7e2d2bac82a026728dca376ff"
+    },
+    {
+      "path": "results/cumulative-base-extreme/statistics/friedman_tests.csv",
+      "bytes": 2293,
+      "sha256": "6b2cc5fbc174a8f8349961103427b0dbeda0c6223c038cb819955e5c07b4cd1b"
+    },
+    {
+      "path": "results/cumulative-base-extreme/statistics/metrics_by_seed.csv",
+      "bytes": 74397,
+      "sha256": "c8a504405bd30ff6d37fece5ba5e90bcf7f97f793316d0bd91c778c76d128e48"
+    },
+    {
+      "path": "results/cumulative-base-extreme/statistics/thesis_summary_ci95.csv",
+      "bytes": 33609,
+      "sha256": "a288314ae50c7910e82f475d1dde98e44a9c48bfb7edaedc7ddb8f42e96b4d97"
+    },
+    {
+      "path": "results/cumulative-base-extreme/statistics/wilcoxon_holm_effect_sizes.csv",
+      "bytes": 134473,
+      "sha256": "fbca7fb4f3f2992eb026662ecd2b134dce553b5e57b66ebbce6233493e7a305c"
+    },
+    {
+      "path": "results/cumulative-base-extreme/thesis_pressure_profile.csv",
+      "bytes": 241,
+      "sha256": "e4d035e0d21141f6fe23d4e0743545a9235a8639fa35481f74d6cc2a8628497a"
+    },
+    {
+      "path": "results/dataset-a/friedman.csv",
+      "bytes": 3806,
+      "sha256": "22c2405b13527746ca6c118211b457548d550a7002ddf378bd42097c322b559c"
+    },
+    {
+      "path": "results/dataset-a/metrics_by_seed.csv",
+      "bytes": 133288,
+      "sha256": "0628ebd0c720741b38dfe012e619aa6b4ae9dcfdaab0ae9a8a2ffac539663ecb"
+    },
+    {
+      "path": "results/dataset-a/summary_ci95.csv",
+      "bytes": 59804,
+      "sha256": "071c46cbe634356dbf20667ca24c4b48928dc3e223e039ccf3cba06db5fafa62"
+    },
+    {
+      "path": "results/dataset-a/wilcoxon_holm.csv",
+      "bytes": 246080,
+      "sha256": "b61d11e1eb8df4b2d0edc9e8410c050e7ed3c1d537f8c95d97af6ca19d892ab1"
+    },
+    {
+      "path": "results/dataset-c/friedman.csv",
+      "bytes": 3682,
+      "sha256": "580fd3044f16a7e5f2b0e2fbf925dfe79803c082f3f45f9ffe8f6bc0061d9383"
+    },
+    {
+      "path": "results/dataset-c/metrics_by_seed.csv",
+      "bytes": 110971,
+      "sha256": "47b68b471b9c95ec640b7f2eadaff6840bdf7760fb34a17cf6aca477fd3ba512"
+    },
+    {
+      "path": "results/dataset-c/summary_ci95.csv",
+      "bytes": 60205,
+      "sha256": "d301b2a303eb05103fb3f442093de20a6931aecd20208e8b204e3594c343ffb7"
+    },
+    {
+      "path": "results/dataset-c/wilcoxon_holm.csv",
+      "bytes": 233128,
+      "sha256": "4420f1428a8d98c758f13aaa499c1df29d3458eb84e4118b2c41cdac40eb6774"
+    },
+    {
+      "path": "results/initial-abcd/A_CPS-NetFlow-IDS/Cumulative/execution_report.csv",
+      "bytes": 231,
+      "sha256": "4ee4edc2a3950811a258a4c9441518f4177c3bc2aad69170309971ca69c887a9"
+    },
+    {
+      "path": "results/initial-abcd/A_CPS-NetFlow-IDS/Cumulative/final_stage_ranking.csv",
+      "bytes": 1444,
+      "sha256": "b73b6a2914dd8ea57f3a34d51fa7f9f0649313750ff86df7d2ed9318540d6567"
+    },
+    {
+      "path": "results/initial-abcd/A_CPS-NetFlow-IDS/Cumulative/raw_results.csv",
+      "bytes": 42275,
+      "sha256": "6435d2994746665f49d21f9982417f31e0883a2f8f7bebd49704123d0ba7039b"
+    },
+    {
+      "path": "results/initial-abcd/A_CPS-NetFlow-IDS/Cumulative/summary_by_stage.csv",
+      "bytes": 20431,
+      "sha256": "a7174c4a1700c78473c4056eccf7e74a90c370017ee414c7cff2d5cb2588388d"
+    },
+    {
+      "path": "results/initial-abcd/A_CPS-NetFlow-IDS/Cumulative/summary_by_strategy.csv",
+      "bytes": 1200,
+      "sha256": "0f5f6790881d829e5d20565b9f07d0f824eb700abfea161d0f9212c49cee3206"
+    },
+    {
+      "path": "results/initial-abcd/A_CPS-NetFlow-IDS/OnOff/execution_report.csv",
+      "bytes": 224,
+      "sha256": "4e32a82491486d64765193457db635ba4211219a92d09bc1068d26bb74723873"
+    },
+    {
+      "path": "results/initial-abcd/A_CPS-NetFlow-IDS/OnOff/final_stage_ranking.csv",
+      "bytes": 1398,
+      "sha256": "b01fc3d6cd6c4ee26bfefa64a57af7c70600a7939aef20cba8e847afda1f4ccf"
+    },
+    {
+      "path": "results/initial-abcd/A_CPS-NetFlow-IDS/OnOff/raw_results.csv",
+      "bytes": 39277,
+      "sha256": "645aa3247c1d1559763ad0891394f3aadd52c7fdc005dcc500b35fe3cd5a0a76"
+    },
+    {
+      "path": "results/initial-abcd/A_CPS-NetFlow-IDS/OnOff/summary_by_stage.csv",
+      "bytes": 19610,
+      "sha256": "4b5328d0a3715732254085cd0352af8b0ba0df7a9f2b382f4610f3ed863d3c99"
+    },
+    {
+      "path": "results/initial-abcd/A_CPS-NetFlow-IDS/OnOff/summary_by_strategy.csv",
+      "bytes": 1185,
+      "sha256": "a3eb52bd5126d84f4ca60714b8c9b3770be65f0ae0eed20c3fc7be52834bc391"
+    },
+    {
+      "path": "results/initial-abcd/A_CPS-NetFlow-IDS/Scaling/execution_report.csv",
+      "bytes": 231,
+      "sha256": "bfcd61f2236cd17a9dee080efe6da2577cf31ec9073e5d77c77e2c95ccf6f219"
+    },
+    {
+      "path": "results/initial-abcd/A_CPS-NetFlow-IDS/Scaling/final_stage_ranking.csv",
+      "bytes": 1415,
+      "sha256": "0a3c8d727ea7e849465cbe8dbece509610d5e0fdc6a2439c5d1e2d854a28d0b6"
+    },
+    {
+      "path": "results/initial-abcd/A_CPS-NetFlow-IDS/Scaling/raw_results.csv",
+      "bytes": 43462,
+      "sha256": "7e3c239ef86653b0f6f7ae6e2ba24a39454fda1dac6d05643f34faba850271b9"
+    },
+    {
+      "path": "results/initial-abcd/A_CPS-NetFlow-IDS/Scaling/summary_by_stage.csv",
+      "bytes": 20213,
+      "sha256": "cb0456924d0b12cfaf79a939a31fe47c0671958a49496d89e77a6000d9301f20"
+    },
+    {
+      "path": "results/initial-abcd/A_CPS-NetFlow-IDS/Scaling/summary_by_strategy.csv",
+      "bytes": 1226,
+      "sha256": "2a48122bd5ad00c1b1286c3f291dba2aed9c898c53ff878c590f78a24b451ce4"
+    },
+    {
+      "path": "results/initial-abcd/A_CPS-NetFlow-IDS/Sybil/execution_report.csv",
+      "bytes": 224,
+      "sha256": "870a424d8bd2dc42a0508fa78db2ae7ab892937fd6eae0dceb115d43ddd2d202"
+    },
+    {
+      "path": "results/initial-abcd/A_CPS-NetFlow-IDS/Sybil/final_stage_ranking.csv",
+      "bytes": 1389,
+      "sha256": "65d51e288c7bfdf91081b9aa4c0f7f00e5c17b04621035148732e8aec4fd3aa1"
+    },
+    {
+      "path": "results/initial-abcd/A_CPS-NetFlow-IDS/Sybil/raw_results.csv",
+      "bytes": 40421,
+      "sha256": "6ce5d923b76a92fd90eaf3a22b721761ca71f9df5dd3b52664c9db94841bfa10"
+    },
+    {
+      "path": "results/initial-abcd/A_CPS-NetFlow-IDS/Sybil/summary_by_stage.csv",
+      "bytes": 20051,
+      "sha256": "7562a086586ce35622f995c3690edf11b09cb60696270bf6e6fe7e0aa4913979"
+    },
+    {
+      "path": "results/initial-abcd/A_CPS-NetFlow-IDS/Sybil/summary_by_strategy.csv",
+      "bytes": 1186,
+      "sha256": "5b285357f94e05a92a16fa50fce709de00a8d3f34d2d12880e6a16d7f61e5f42"
+    },
+    {
+      "path": "results/initial-abcd/all_diagnostic.csv",
+      "bytes": 1425,
+      "sha256": "024729383ae1193a8b2662b98e79a635f687cdfaaa741027d620a0d757024f06"
+    },
+    {
+      "path": "results/initial-abcd/all_final_stage_ranking.csv",
+      "bytes": 15724,
+      "sha256": "a4b2fc9846a0c90af55977be18772bfd63e0646785fd8e6f1e30affe9552fe7e"
+    },
+    {
+      "path": "results/initial-abcd/all_raw_results.csv",
+      "bytes": 656985,
+      "sha256": "a657cab3f87cc9e28fafa1bfee68b30f42ca2cc3514445b49920f5eab3f81271"
+    },
+    {
+      "path": "results/initial-abcd/all_summary_by_stage.csv",
+      "bytes": 266013,
+      "sha256": "339564e5b2f4af62e4f26e92ab12ff99a767beabfaf68b75aa44fc21d2c75d78"
+    },
+    {
+      "path": "results/initial-abcd/B_Packet-Level_Botnet_Set/Cumulative/execution_report.csv",
+      "bytes": 238,
+      "sha256": "d7bb4c73aba8931b6d9bf54cbca2604cebd98ee10eeea22d2647dc26e8d55c9b"
+    },
+    {
+      "path": "results/initial-abcd/B_Packet-Level_Botnet_Set/Cumulative/final_stage_ranking.csv",
+      "bytes": 1446,
+      "sha256": "0e22e2246521fc20c5a97faa7348296f4c6163391b5a1630769d6af79fa48f54"
+    },
+    {
+      "path": "results/initial-abcd/B_Packet-Level_Botnet_Set/Cumulative/raw_results.csv",
+      "bytes": 43855,
+      "sha256": "fb0700581ed8fb780e2df12c0fb21cfcbfcb149621474384a9b4ec30e93754e7"
+    },
+    {
+      "path": "results/initial-abcd/B_Packet-Level_Botnet_Set/Cumulative/summary_by_stage.csv",
+      "bytes": 21149,
+      "sha256": "4254fa3756e8d10e03ff382dfb04f380192ac4b5805f575da8ff1788f2efd365"
+    },
+    {
+      "path": "results/initial-abcd/B_Packet-Level_Botnet_Set/Cumulative/summary_by_strategy.csv",
+      "bytes": 1241,
+      "sha256": "b12981f42a943bef3fb001e063d9315a594dbd7aead030ab0b0940b45b99c097"
+    },
+    {
+      "path": "results/initial-abcd/B_Packet-Level_Botnet_Set/OnOff/execution_report.csv",
+      "bytes": 233,
+      "sha256": "af85e6115b5b133f53cb60f22948e77c4b86b9ce1640b912a5784e2f2fc1ea07"
+    },
+    {
+      "path": "results/initial-abcd/B_Packet-Level_Botnet_Set/OnOff/final_stage_ranking.csv",
+      "bytes": 1425,
+      "sha256": "660e4bdb276fe32fbe191422c51383b171fb662b9ab0c7fb803583c8ac0f5018"
+    },
+    {
+      "path": "results/initial-abcd/B_Packet-Level_Botnet_Set/OnOff/raw_results.csv",
+      "bytes": 40707,
+      "sha256": "5bb31adf76431ea199568db168a82d73c6739265ba032a3a46a30e2f4e28dbb3"
+    },
+    {
+      "path": "results/initial-abcd/B_Packet-Level_Botnet_Set/OnOff/summary_by_stage.csv",
+      "bytes": 20269,
+      "sha256": "795ad085689e5f3431d77e53d31906aa3f5a1b21ac2c7c74b741d9c8d099f70b"
+    },
+    {
+      "path": "results/initial-abcd/B_Packet-Level_Botnet_Set/OnOff/summary_by_strategy.csv",
+      "bytes": 1212,
+      "sha256": "d0efdf70981c471ffe0ca0b6e99ceb1e74f8fc1bb227efed8f146eff2b60d21c"
+    },
+    {
+      "path": "results/initial-abcd/B_Packet-Level_Botnet_Set/Scaling/execution_report.csv",
+      "bytes": 240,
+      "sha256": "55840e624e31cc49b3743d1a03ce7a72f7c10cd074c8b1d16b55ec28ff863437"
+    },
+    {
+      "path": "results/initial-abcd/B_Packet-Level_Botnet_Set/Scaling/final_stage_ranking.csv",
+      "bytes": 1406,
+      "sha256": "84105f18777c0040ba4d66f4a38f471f02cdd209ca59ab2d3d0a65293d770de5"
+    },
+    {
+      "path": "results/initial-abcd/B_Packet-Level_Botnet_Set/Scaling/raw_results.csv",
+      "bytes": 44990,
+      "sha256": "adad43ea6481cf0c08cf3cbda836b951a3c72c2f99602e75b5642380157fb121"
+    },
+    {
+      "path": "results/initial-abcd/B_Packet-Level_Botnet_Set/Scaling/summary_by_stage.csv",
+      "bytes": 20404,
+      "sha256": "7f2c634f4e276306d1af205ca2a70ae9605ca4e79bb93ef9c74bc1499b1c2a53"
+    },
+    {
+      "path": "results/initial-abcd/B_Packet-Level_Botnet_Set/Scaling/summary_by_strategy.csv",
+      "bytes": 1265,
+      "sha256": "2c5ddfabc627932b7b0087a43fc410fbdb21e1c023f8c4c8a2054bedc714f6e2"
+    },
+    {
+      "path": "results/initial-abcd/B_Packet-Level_Botnet_Set/Sybil/execution_report.csv",
+      "bytes": 232,
+      "sha256": "8c2518f207fd808ad505befce317bdab3a49feb1951e845c02e7e2ed0f5202a1"
+    },
+    {
+      "path": "results/initial-abcd/B_Packet-Level_Botnet_Set/Sybil/final_stage_ranking.csv",
+      "bytes": 1428,
+      "sha256": "d3139d4f69dcbcadfb85a236625e26abaa2ecedd3ecddebe76c2af5432839bc9"
+    },
+    {
+      "path": "results/initial-abcd/B_Packet-Level_Botnet_Set/Sybil/raw_results.csv",
+      "bytes": 41754,
+      "sha256": "1c8ea1c282a73175867502ad6621fc9016fea2cd6e2a70fa0fe47118828ce589"
+    },
+    {
+      "path": "results/initial-abcd/B_Packet-Level_Botnet_Set/Sybil/summary_by_stage.csv",
+      "bytes": 20602,
+      "sha256": "01b7723d1aa2142b3e74d44c8c7c292be0d2ab2664f596ee12c243a4769562b4"
+    },
+    {
+      "path": "results/initial-abcd/B_Packet-Level_Botnet_Set/Sybil/summary_by_strategy.csv",
+      "bytes": 1226,
+      "sha256": "17048275333c1a72ba5a195981a111b08c56d634ad27de720a6f0aa64574e374"
+    },
+    {
+      "path": "results/initial-abcd/C_MQTT-IoT-Flood/Cumulative/execution_report.csv",
+      "bytes": 229,
+      "sha256": "a364c7dbdc63b0e48922fe91cdfe016bf2bcaa2cd0d356d4cdf7d6051ac72bbc"
+    },
+    {
+      "path": "results/initial-abcd/C_MQTT-IoT-Flood/Cumulative/final_stage_ranking.csv",
+      "bytes": 1431,
+      "sha256": "8da96b8e4080e2a262a63d3469c4fb72e9f0548abee8855b59485534639785c1"
+    },
+    {
+      "path": "results/initial-abcd/C_MQTT-IoT-Flood/Cumulative/raw_results.csv",
+      "bytes": 42650,
+      "sha256": "8821df5930d89e19b625c469a5ced86c87c4a0ced191da8d722f908d08cbe233"
+    },
+    {
+      "path": "results/initial-abcd/C_MQTT-IoT-Flood/Cumulative/summary_by_stage.csv",
+      "bytes": 20583,
+      "sha256": "bc8bfc30663e86718305fc762cc6053ff85d4f1a2830fc8485aadf715f98045f"
+    },
+    {
+      "path": "results/initial-abcd/C_MQTT-IoT-Flood/Cumulative/summary_by_strategy.csv",
+      "bytes": 1196,
+      "sha256": "6226627e130eb831dd50a6070575a8660399ed53f1b92034504dbe1c41b3e727"
+    },
+    {
+      "path": "results/initial-abcd/C_MQTT-IoT-Flood/OnOff/execution_report.csv",
+      "bytes": 224,
+      "sha256": "b2b52bc4f85ab4989bc19771d5ffb4fece9af83eabde67da77c5ae3d8bb0d67b"
+    },
+    {
+      "path": "results/initial-abcd/C_MQTT-IoT-Flood/OnOff/final_stage_ranking.csv",
+      "bytes": 1248,
+      "sha256": "4e62d5dbd1587932a70b9692779ccbf8c6cd60df17245f48c7c55a9db81cc433"
+    },
+    {
+      "path": "results/initial-abcd/C_MQTT-IoT-Flood/OnOff/raw_results.csv",
+      "bytes": 38305,
+      "sha256": "627798ea64d549365db7723c5e81d42ce72ba699169d77ee0642bbcef05d3ecf"
+    },
+    {
+      "path": "results/initial-abcd/C_MQTT-IoT-Flood/OnOff/summary_by_stage.csv",
+      "bytes": 18967,
+      "sha256": "f8110881458ebfe78cbc71753eabf5210668fd80ba41987ed1c55ccb810510c4"
+    },
+    {
+      "path": "results/initial-abcd/C_MQTT-IoT-Flood/OnOff/summary_by_strategy.csv",
+      "bytes": 1166,
+      "sha256": "ba2e12459cf7d5790322cd88ab16aa6d84af1303efb5f148c9b3bffc715904ee"
+    },
+    {
+      "path": "results/initial-abcd/C_MQTT-IoT-Flood/Scaling/execution_report.csv",
+      "bytes": 231,
+      "sha256": "0d6922d6297aae6935b6ba72ea89d40d835a6e54ce8f4edac3cc3a48d9d3bee5"
+    },
+    {
+      "path": "results/initial-abcd/C_MQTT-IoT-Flood/Scaling/final_stage_ranking.csv",
+      "bytes": 1419,
+      "sha256": "01021550b22a1a95cf91b0cb0e7b441299f01564f2e4334c2166b1dbf9fc7ed8"
+    },
+    {
+      "path": "results/initial-abcd/C_MQTT-IoT-Flood/Scaling/raw_results.csv",
+      "bytes": 43357,
+      "sha256": "be9330235172153c645f3067d8c56161a9ff82c80554d4ee934caa5e28abae7c"
+    },
+    {
+      "path": "results/initial-abcd/C_MQTT-IoT-Flood/Scaling/summary_by_stage.csv",
+      "bytes": 20414,
+      "sha256": "10877f9c6f8b0d3378913ee133b44feee32321c78193d84f7f100efa11f15b4e"
+    },
+    {
+      "path": "results/initial-abcd/C_MQTT-IoT-Flood/Scaling/summary_by_strategy.csv",
+      "bytes": 1221,
+      "sha256": "90d661355eb089858e9723b98c2a7ede3c8ee66200e5d733d168acb1a613c9b9"
+    },
+    {
+      "path": "results/initial-abcd/C_MQTT-IoT-Flood/Sybil/execution_report.csv",
+      "bytes": 223,
+      "sha256": "0ef10d9d21a5ae47c947ef177492fb76f20123e33cd91f2f6844b29f108cc922"
+    },
+    {
+      "path": "results/initial-abcd/C_MQTT-IoT-Flood/Sybil/final_stage_ranking.csv",
+      "bytes": 1389,
+      "sha256": "29a7f6f6313e38e53b64a6015a9f495093d4902aec79f45db740aa6effeb0220"
+    },
+    {
+      "path": "results/initial-abcd/C_MQTT-IoT-Flood/Sybil/raw_results.csv",
+      "bytes": 40463,
+      "sha256": "1529634424c679a80e423fe1f1203c9b9d4fbef134a7b1850a4217f9d8600fbb"
+    },
+    {
+      "path": "results/initial-abcd/C_MQTT-IoT-Flood/Sybil/summary_by_stage.csv",
+      "bytes": 20052,
+      "sha256": "096daa9100796f67347b8c9d778a60f990541e67c1a43fba6c8acfa8e79015aa"
+    },
+    {
+      "path": "results/initial-abcd/C_MQTT-IoT-Flood/Sybil/summary_by_strategy.csv",
+      "bytes": 1181,
+      "sha256": "971834e53efaee8f8f085137ffe80f88a4e358ff10f04adc4ad3a030b54c99ae"
+    },
+    {
+      "path": "results/initial-abcd/D_Aggregated_Traffic_Set/Cumulative/execution_report.csv",
+      "bytes": 233,
+      "sha256": "7ab2d64703107dc77fbc9d747d92b0d07ceba618b192d73e313c61a0c3bc6283"
+    },
+    {
+      "path": "results/initial-abcd/D_Aggregated_Traffic_Set/Cumulative/final_stage_ranking.csv",
+      "bytes": 1400,
+      "sha256": "0201ad726cae818874697151c643d725dcd6254ecad18f67f5f0864ef399b543"
+    },
+    {
+      "path": "results/initial-abcd/D_Aggregated_Traffic_Set/Cumulative/raw_results.csv",
+      "bytes": 40222,
+      "sha256": "c0850df620c70842531da7a42e43b936348b5e55eae47515421f8ea0dcfa36ae"
+    },
+    {
+      "path": "results/initial-abcd/D_Aggregated_Traffic_Set/Cumulative/summary_by_stage.csv",
+      "bytes": 20900,
+      "sha256": "b992076f086837588ece77a0b6e1289075ff6892cb0257c1a9982c8afadb54b3"
+    },
+    {
+      "path": "results/initial-abcd/D_Aggregated_Traffic_Set/Cumulative/summary_by_strategy.csv",
+      "bytes": 1258,
+      "sha256": "da983762c77d75a5e30c2cc0189dde39e103ed2732cdbb83d8bebbbf2f031720"
+    },
+    {
+      "path": "results/initial-abcd/D_Aggregated_Traffic_Set/OnOff/execution_report.csv",
+      "bytes": 230,
+      "sha256": "00b9f491a0ac366327977e3e247e9d6cecd0e906ea8633370f5dbcd24a996e84"
+    },
+    {
+      "path": "results/initial-abcd/D_Aggregated_Traffic_Set/OnOff/final_stage_ranking.csv",
+      "bytes": 1278,
+      "sha256": "2eaab8f17ff8b893b7e0fbd3be6d5e230a605a298a0abd8ebc2fe4d91f239c4b"
+    },
+    {
+      "path": "results/initial-abcd/D_Aggregated_Traffic_Set/OnOff/raw_results.csv",
+      "bytes": 37471,
+      "sha256": "a5f72ed97fa1679d1b960baa18c5ff62711e962f9535ef360c897454cf56512a"
+    },
+    {
+      "path": "results/initial-abcd/D_Aggregated_Traffic_Set/OnOff/summary_by_stage.csv",
+      "bytes": 19378,
+      "sha256": "31a1d2250c1578e26fa14ed08a311888ee87dd1ddc810d8c9b276503729d2741"
+    },
+    {
+      "path": "results/initial-abcd/D_Aggregated_Traffic_Set/OnOff/summary_by_strategy.csv",
+      "bytes": 1209,
+      "sha256": "8ec0ec45bebbb9d69ddc0287a4ee1ddfecd9a6a62c49b241f6cf645f3bf9d1b2"
+    },
+    {
+      "path": "results/initial-abcd/D_Aggregated_Traffic_Set/Scaling/execution_report.csv",
+      "bytes": 238,
+      "sha256": "3a44edfcbadf81aab8722ac27ddb3e26ea285835d4db2952ba6f98ffa9cd41c4"
+    },
+    {
+      "path": "results/initial-abcd/D_Aggregated_Traffic_Set/Scaling/final_stage_ranking.csv",
+      "bytes": 1285,
+      "sha256": "b4d21d9e6f88e0d23bdbc6a615ffe4412e5fdc90e68f714b791565f2e5cdf609"
+    },
+    {
+      "path": "results/initial-abcd/D_Aggregated_Traffic_Set/Scaling/raw_results.csv",
+      "bytes": 41455,
+      "sha256": "d931bbdb7b84279ff011dc76337f1b5054bcd749ff70f489548b34987a1ccf77"
+    },
+    {
+      "path": "results/initial-abcd/D_Aggregated_Traffic_Set/Scaling/summary_by_stage.csv",
+      "bytes": 19153,
+      "sha256": "b4360607a3f77657705506e0d621cabd9f94091b18d339fb979f4e817b6d77d9"
+    },
+    {
+      "path": "results/initial-abcd/D_Aggregated_Traffic_Set/Scaling/summary_by_strategy.csv",
+      "bytes": 1248,
+      "sha256": "a5f85857348544881f8445059e60e9e0934aa70a0715706a5270fad73bc36fab"
+    },
+    {
+      "path": "results/initial-abcd/D_Aggregated_Traffic_Set/Sybil/execution_report.csv",
+      "bytes": 229,
+      "sha256": "476618a96ed03717f20faabce59408f81f3a5bdaa67319ec41345b7c1eec017f"
+    },
+    {
+      "path": "results/initial-abcd/D_Aggregated_Traffic_Set/Sybil/final_stage_ranking.csv",
+      "bytes": 1418,
+      "sha256": "d1a5668f20d2d1c20f6041220fe9f29cda0835976b8b6764f057f429f518366a"
+    },
+    {
+      "path": "results/initial-abcd/D_Aggregated_Traffic_Set/Sybil/raw_results.csv",
+      "bytes": 39021,
+      "sha256": "1376ced147727ba014149f86f95ec15f7df52f610ba778dfb95961bb917e6519"
+    },
+    {
+      "path": "results/initial-abcd/D_Aggregated_Traffic_Set/Sybil/summary_by_stage.csv",
+      "bytes": 20725,
+      "sha256": "90e1e230afd7585c850caeb34f161ce56c2f56d0a0717d5eff596e5870b47d55"
+    },
+    {
+      "path": "results/initial-abcd/D_Aggregated_Traffic_Set/Sybil/summary_by_strategy.csv",
+      "bytes": 1205,
+      "sha256": "84e6027128a0778131ce17f7047e9e461149c775902141d3db98792d61a15528"
+    },
+    {
+      "path": "results/initial-abcd/unified_results-original.zip",
+      "bytes": 6743558,
+      "sha256": "b64cf5cc8504da81a11c29e91a54b5d51b3d50eba5af9a452e8708af980ed725"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_ModelReplacement_Results__Danmini_Doorbell_gafgyt_attacks__Raw_Results_Scaling.csv",
+      "bytes": 28340,
+      "sha256": "6d422324b6c3f0321bcf39c4f4fc0ae717634b4727523ed1e9eff3bb90a6e1f5"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_ModelReplacement_Results__Danmini_Doorbell_gafgyt_attacks__Raw_Results_Scaling__1.csv",
+      "bytes": 28340,
+      "sha256": "6d422324b6c3f0321bcf39c4f4fc0ae717634b4727523ed1e9eff3bb90a6e1f5"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_ModelReplacement_Results__Danmini_Doorbell_mirai_attacks__Raw_Results_Scaling.csv",
+      "bytes": 25505,
+      "sha256": "73b85d913f80c511af515522069a72e316d7bbf9d2bd776f0bd3270f40dd522b"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_ModelReplacement_Results__Ecobee_Thermostat_gafgyt_attacks__Raw_Results_Scaling.csv",
+      "bytes": 27696,
+      "sha256": "4bce31ac5f7160f5621c8b7ab85f82cf6a347d446009e523f30dafad0c29adc7"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_ModelReplacement_Results__Ecobee_Thermostat_mirai_attacks__Raw_Results_Scaling.csv",
+      "bytes": 29018,
+      "sha256": "9a58bd0c45885855be2c4ae5d9294d4c46d9e17da88ea75e67b1a028994fcbcc"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_ModelReplacement_Results__Ennio_Doorbell_gafgyt_attacks__Raw_Results_Scaling.csv",
+      "bytes": 27932,
+      "sha256": "15822b4d0feaff06e1ed1c9f6dd01ed9f821f0cfed5d6cec0b253b94364e642d"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_ModelReplacement_Results__Philips_B120N10_Baby_Monitor_gafgyt_attacks__Raw_Results_Scaling.csv",
+      "bytes": 28247,
+      "sha256": "d7f94b04f71061e58790dbc6f72183c077a6e75ff05ad3c504774ec41a14f3a2"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_ModelReplacement_Results__Philips_B120N10_Baby_Monitor_mirai_attacks__Raw_Results_Scaling.csv",
+      "bytes": 28349,
+      "sha256": "003851ed80885e5ca0fbd339af067d69b80e916c76c5dabe387651f2a049d5ae"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_ModelReplacement_Results__Provision_PT_838_Security_Camera_mirai_attacks__Raw_Results_Scaling.csv",
+      "bytes": 29050,
+      "sha256": "5658138e35b222f749c1cdf94967513608f422c8bc013a60fc8e04b3bf14c1f1"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_ModelReplacement_Results__Samsung_SNH_1011_N_Webcam_gafgyt_attacks__Raw_Results_Scaling.csv",
+      "bytes": 28043,
+      "sha256": "0bc5401928bb855287f4c1aaefae00feb52a08d72a218c62d4cc93845b4f7a11"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_OnOff_Results__Danmini_Doorbell_gafgyt_attacks__Raw_Results_OnOff.csv",
+      "bytes": 31200,
+      "sha256": "acc146f391358d057fc0d13e9b516fd0802c2260925708940edb96f746e9c455"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_OnOff_Results__Danmini_Doorbell_mirai_attacks__Raw_Results_OnOff.csv",
+      "bytes": 24381,
+      "sha256": "8df403d8467ca46caac74612554b66e69bfcc30f28eb6625594e2d731116196a"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_OnOff_Results__Ecobee_Thermostat_gafgyt_attacks__Raw_Results_OnOff.csv",
+      "bytes": 30651,
+      "sha256": "d5ddf45622bbb7941584f4501376782791a5714d4032121254b4a4830352d348"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_OnOff_Results__Ecobee_Thermostat_mirai_attacks__Raw_Results_OnOff.csv",
+      "bytes": 29372,
+      "sha256": "c24a2141bb4d2135ccd591cfcd7a5ce92726bd61097c88f345097360ab921e96"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_OnOff_Results__Ennio_Doorbell_gafgyt_attacks__Raw_Results_OnOff.csv",
+      "bytes": 30659,
+      "sha256": "0c493ae74024963df09499cdea1c1cac89aeb7f675153fd5a47595f1728a5409"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_OnOff_Results__Philips_B120N10_Baby_Monitor_gafgyt_attacks__Raw_Results_OnOff.csv",
+      "bytes": 31038,
+      "sha256": "b8b3637e0bad78ffd495bbe28c7795ff161fc318e03904c07a60d854733c206b"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_OnOff_Results__Philips_B120N10_Baby_Monitor_mirai_attacks__Raw_Results_OnOff.csv",
+      "bytes": 28485,
+      "sha256": "2a344a2ee002b36823f8de6dba90e44373a8c4187f6d87b28e7b59c82fb55e9f"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_OnOff_Results__Provision_PT_838_Security_Camera_mirai_attacks__Raw_Results_OnOff.csv",
+      "bytes": 30100,
+      "sha256": "662d14f762f6a424e1b30b3a379ed0e4c4807d3cd2384fef91904735eb9e80d8"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_OnOff_Results__Samsung_SNH_1011_N_Webcam_gafgyt_attacks__Raw_Results_OnOff.csv",
+      "bytes": 30903,
+      "sha256": "23da0bbc3b61a294c2d919b84b2d185639e5acf587c8788844407b1e7a67e773"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_Resultados_Final__Danmini_Doorbell_gafgyt_attacks__Raw_Results.csv",
+      "bytes": 31224,
+      "sha256": "f7188d91ac3fbe7d13fd652301e2d6bfbc1b92ede02da80d5715d8f0770431e1"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_Resultados_Final__Danmini_Doorbell_gafgyt_attacks__Summary_Stats.csv",
+      "bytes": 8096,
+      "sha256": "ac82c3e63db76c0846ac1640e22be301b3b5a7e0b7d7de7c6ccbf3265510e2b8"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_Resultados_Final__Danmini_Doorbell_mirai_attacks__Raw_Results.csv",
+      "bytes": 26548,
+      "sha256": "66b2276e603921d21cd301eac2f320d9b4b1044bde4569122aa7f28d2d98eaa2"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_Resultados_Final__Danmini_Doorbell_mirai_attacks__Summary_Stats.csv",
+      "bytes": 6594,
+      "sha256": "b86f4fb98fc7b670ba10e4a9aa1b5b9c466eb6fc8baf4b0275815e6bc2dcd5af"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_Resultados_Final__Ecobee_Thermostat_gafgyt_attacks__Raw_Results.csv",
+      "bytes": 30668,
+      "sha256": "35dd8d5df0ac06fadfe83f654d3bc6f7149b4ac0cf0416408467e3ca3c03c20f"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_Resultados_Final__Ecobee_Thermostat_gafgyt_attacks__Summary_Stats.csv",
+      "bytes": 7720,
+      "sha256": "278426f4ee45660d9c33a9ed26d94f7f86b9b556d6848db8dbe0ce7863b32a13"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_Resultados_Final__Ecobee_Thermostat_mirai_attacks__Raw_Results.csv",
+      "bytes": 29318,
+      "sha256": "3a98887669236dff313702e86ade3cc7010338960f439838164f388285c72998"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_Resultados_Final__Ecobee_Thermostat_mirai_attacks__Summary_Stats.csv",
+      "bytes": 7956,
+      "sha256": "3f6bfc1389eac032be89334a6944d63c1254923d95870023cc87a1d5ab1c74f3"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_Resultados_Final__Ennio_Doorbell_gafgyt_attacks__Raw_Results.csv",
+      "bytes": 30938,
+      "sha256": "055dc148f3ddc1065187ce6cb76d1d07d233973e1e93c7bd9ebc163dba3cadf3"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_Resultados_Final__Ennio_Doorbell_gafgyt_attacks__Summary_Stats.csv",
+      "bytes": 7878,
+      "sha256": "3abe656129008e4b64853ae2fd148895b8f3d703feaad482ad1154a98c003baf"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_Resultados_Final__Philips_B120N10_Baby_Monitor_gafgyt_attacks__Raw_Results.csv",
+      "bytes": 31146,
+      "sha256": "3fe9559d789de03bb60f99ff1295f05431fe7cf937f5d29ffa52d3e7c75c2a3d"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_Resultados_Final__Philips_B120N10_Baby_Monitor_gafgyt_attacks__Summary_Stats.csv",
+      "bytes": 8071,
+      "sha256": "8ff1b20dcf1138011dc26e2497b27a00fa86c2347ccbf1bcbe2c38894bd88a8f"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_Resultados_Final__Philips_B120N10_Baby_Monitor_mirai_attacks__Raw_Results.csv",
+      "bytes": 28664,
+      "sha256": "cfaa9393eb79ba63973e12c675ae2c12ea64bb0c65313c0af1ec2ff152726fc0"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_Resultados_Final__Philips_B120N10_Baby_Monitor_mirai_attacks__Summary_Stats.csv",
+      "bytes": 7802,
+      "sha256": "28c4e2975348e0c0f3e244592ea8892ff66460fb9dcb755667ba0e4806aa3925"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_Resultados_Final__Provision_PT_838_Security_Camera_mirai_attacks__Raw_Results.csv",
+      "bytes": 29902,
+      "sha256": "0ba952a332919328f3655fe57561624ad6a6a6c94a9e0cb53200c3151ab4a6e9"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_Resultados_Final__Provision_PT_838_Security_Camera_mirai_attacks__Summary_Stats.csv",
+      "bytes": 7802,
+      "sha256": "c8b15b19686a2fea683acd2766247a885bd37761ff5d5066a445a39cc5dc7d7d"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_Resultados_Final__Samsung_SNH_1011_N_Webcam_gafgyt_attacks__Raw_Results.csv",
+      "bytes": 31038,
+      "sha256": "f54c1254e780537b072c9b2fcbee1fedb0d8599849689d08dfebfa5b324862c7"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_Resultados_Final__Samsung_SNH_1011_N_Webcam_gafgyt_attacks__Summary_Stats.csv",
+      "bytes": 7910,
+      "sha256": "5bde5b3b4489148813bbd9ccb981048b4d5306c7d3a9b6ba3af65a9b961b18ea"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_Sybil_Results__Danmini_Doorbell_gafgyt_attacks__Raw_Results_Sybil.csv",
+      "bytes": 30314,
+      "sha256": "33b5b029e8751ad7c54cfa399d2191f26a6ce160f2b1cff05d44114d7ae55a64"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_Sybil_Results__Danmini_Doorbell_mirai_attacks__Raw_Results_Sybil.csv",
+      "bytes": 29038,
+      "sha256": "ed6c5aca2810174b50143a530761a20fec5e706332a5929d52beafc1b0444461"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_Sybil_Results__Ecobee_Thermostat_gafgyt_attacks__Raw_Results_Sybil.csv",
+      "bytes": 30381,
+      "sha256": "62acc8a636a1473b59d93fc0df84e2bea74d036e44360ab22d669340a2ed9a32"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_Sybil_Results__Ecobee_Thermostat_mirai_attacks__Raw_Results_Sybil.csv",
+      "bytes": 29658,
+      "sha256": "1922a905cbb5f2195ca03011535777eb3f10628a902eafdd4444921148cc3572"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_Sybil_Results__Ennio_Doorbell_gafgyt_attacks__Raw_Results_Sybil.csv",
+      "bytes": 31077,
+      "sha256": "10bc58f7ec105c69cd6692b3970815200851c9a8c1261b65c22992ffa750707a"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_Sybil_Results__Philips_B120N10_Baby_Monitor_gafgyt_attacks__Raw_Results_Sybil.csv",
+      "bytes": 29824,
+      "sha256": "d555ea219c51758954b0b62943960eea35b673ff4d382062ad16163c12c8b638"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_Sybil_Results__Philips_B120N10_Baby_Monitor_mirai_attacks__Raw_Results_Sybil.csv",
+      "bytes": 29406,
+      "sha256": "f3a564766e7817ec367fddba76efa14a7427be27921150971847166c1660de57"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_Sybil_Results__Provision_PT_838_Security_Camera_mirai_attacks__Raw_Results_Sybil.csv",
+      "bytes": 29988,
+      "sha256": "baa6408aa839afd3400ee97a9611d2633090bcb9f40afb9e4d8f910b8387bcd5"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/Benchmark_Sybil_Results__Samsung_SNH_1011_N_Webcam_gafgyt_attacks__Raw_Results_Sybil.csv",
+      "bytes": 31481,
+      "sha256": "45bd67cb83ded75f307694d7d3732563956feb5769cb8609b12ad6e557e2f33f"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/MyDrive__Benchmark_ModelReplacement_Results__RELATORIO_SCALING_GERAL.csv",
+      "bytes": 4925,
+      "sha256": "eb95d641d05967a6113f8c517d4bae73d7765ab3fa8aa6965839862bbd907d39"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/MyDrive__Benchmark_OnOff_Results__RELATORIO_ONOFF_GERAL.csv",
+      "bytes": 5086,
+      "sha256": "e29709320c9e3f259fb70ef7317583f0696c2230c81d6e05a1083b8da4c19182"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/MyDrive__Benchmark_Resultados_Final__RELATORIO_GERAL_RESUMO.csv",
+      "bytes": 5912,
+      "sha256": "080d191c2a60bbdef64e9787cbf7822a47c970b8c08073a8ddb38c7166c1f475"
+    },
+    {
+      "path": "results/initial-campaign/benchmark-consolidated/MyDrive__Benchmark_Sybil_Results__RELATORIO_SYBIL_GERAL.csv",
+      "bytes": 5166,
+      "sha256": "81e6c4e4568bcae9990b91105aabdd64994acd25e56d67ba7ed602617f3ef18f"
+    },
+    {
+      "path": "results/initial-campaign/early-runs/Danmini_Doorbell_gafgyt_attacks_consolidado_RESULTADOS_ULTIMATE_5_METHODS.csv",
+      "bytes": 8252,
+      "sha256": "78d017866303906b1d0ab9fe3b9c6cbea032a393e57d0a7b2c7e9572aa5f6161"
+    },
+    {
+      "path": "results/initial-campaign/early-runs/Danmini_Doorbell_mirai_attacks_consolidado_RESULTADOS_ULTIMATE_5_METHODS.csv",
+      "bytes": 8476,
+      "sha256": "671d175bc10d51573bcd550583cffc1b5469aee63b321d5e1ffd2bce95f5e805"
+    },
+    {
+      "path": "results/initial-campaign/early-runs/Datasets_Ecobee_Thermostat_gafgyt_RESULTADOS_ULTIMATE_5_METHODS.csv",
+      "bytes": 6362,
+      "sha256": "7815d170ce6efd8dbe173d8de7916ff448729a50b7af06c55adafc99fa21e85c"
+    },
+    {
+      "path": "results/initial-campaign/early-runs/DatasetsDanmini_Doorbell_mirai_RESULTADOS_ULTIMATE_5_METHODS.csv",
+      "bytes": 5720,
+      "sha256": "40b0d4f5c1c9bee1794c69d8867f381036d07961a548c87a3a7d04644bcff50d"
+    },
+    {
+      "path": "results/initial-campaign/early-runs/Ecobee_Thermostat_gafgyt_attacks_consolidado_RESULTADOS_ULTIMATE_5_METHODS.csv",
+      "bytes": 8460,
+      "sha256": "b3235847d42c4532c8e1efe0897eac78e49aeb701fbbfdfba77e0f549d1f69b5"
+    },
+    {
+      "path": "results/initial-campaign/early-runs/Ecobee_Thermostat_mirai_attacks_consolidado_RESULTADOS_ULTIMATE_5_METHODS.csv",
+      "bytes": 6665,
+      "sha256": "ed246e4269bf0e6df81869cb9d99f19b170c165d45ca3782d5d842c122e2caad"
+    },
+    {
+      "path": "results/initial-campaign/early-runs/Ennio_Doorbell_gafgyt_attacks_consolidado_RESULTADOS_ULTIMATE_5_METHODS.csv",
+      "bytes": 8384,
+      "sha256": "a28bbc932744fa5fd1686fa9347a9a8c2560f5b606030e4e4308bdd3e7aaab1d"
+    },
+    {
+      "path": "results/initial-campaign/early-runs/Philips_B120N10_Baby_Monitor_gafgyt_attacks_consolidado_RESULTADOS_ULTIMATE_5_METHODS.csv",
+      "bytes": 8549,
+      "sha256": "61079c07355f8eefc94876677cdb320854e263b0e715cb88fb8dc9e0d0d4ffe8"
+    },
+    {
+      "path": "results/initial-campaign/early-runs/Philips_B120N10_Baby_Monitor_mirai_attacks_consolidado_RESULTADOS_ULTIMATE_5_METHODS.csv",
+      "bytes": 8296,
+      "sha256": "34635acf83d4126fd4508726eddb4b52587db82f5a0ef0daa69693e31b6f55d9"
+    },
+    {
+      "path": "results/initial-campaign/early-runs/Provision_PT_838_Security_Camera_mirai_attacks_consolidado_RESULTADOS_ULTIMATE_5_METHODS.csv",
+      "bytes": 8364,
+      "sha256": "bbdd9908a84f6b84a38dd70ddc9c96ad4ee2975ca9b7ab731139d799b7ae44bf"
+    },
+    {
+      "path": "results/initial-campaign/early-runs/Samsung_SNH_1011_N_Webcam_gafgyt_attacks_consolidado_RESULTADOS_ULTIMATE_5_METHODS.csv",
+      "bytes": 8521,
+      "sha256": "d1b71416fba20e2565975d561df27e44af4fba38a997ba987f145ba3eb20c028"
+    },
+    {
+      "path": "results/initial-campaign/manifest.csv",
+      "bytes": 25915,
+      "sha256": "e5a71f1bd793736ef38b3d8eeb32b4102161053dc86085ab474c9a05bbf99bdf"
+    },
+    {
+      "path": "results/initial-campaign/notebooks/benchmark-13012026.ipynb",
+      "bytes": 191739,
+      "sha256": "ff88d926fd5c051c74671ad102634057fc5c2430c23cf66be1b8f45306c71aad"
+    },
+    {
+      "path": "results/initial-campaign/notebooks/consolidado-de-resultados-benchmark.ipynb",
+      "bytes": 157000,
+      "sha256": "4a06ec241b916bd461a0c58c5c798d449e3af1c86ca78576fd989877fc03e627"
+    },
+    {
+      "path": "results/initial-campaign/notebooks/cumulative-backdoor.ipynb",
+      "bytes": 17362,
+      "sha256": "136b0babeb1fb267d946baa75a2c87049473b367fd1cb3e6e2acf652cf142fa6"
+    },
+    {
+      "path": "results/initial-campaign/notebooks/gerador-de-graficos.ipynb",
+      "bytes": 24833,
+      "sha256": "179a98c547ba3c19efe630a01992f0abc96f7d0c8d96652bb6bf7c85491a81ce"
+    },
+    {
+      "path": "results/initial-campaign/notebooks/on-off.ipynb",
+      "bytes": 17228,
+      "sha256": "f826d1b604efedfb7dfc0eab556401a28e49ff246e1661c97184d55b00eb4167"
+    },
+    {
+      "path": "results/initial-campaign/notebooks/scaling-model-replacement.ipynb",
+      "bytes": 16765,
+      "sha256": "c5271d4d06e634870b2af0e8270f91e10437a0922f250352e9012b66be0e42bc"
+    },
+    {
+      "path": "results/initial-campaign/notebooks/sybil.ipynb",
+      "bytes": 16378,
+      "sha256": "2e586ed1512e2ed882c8989c03c2207fc2606d695b39be79fc9ad3b264f001f8"
+    },
+    {
+      "path": "results/initial-campaign/README.md",
+      "bytes": 1690,
+      "sha256": "462cb9cd5f9a6f1c75453296b5caa090bd9e68c9b09d0d7595546f359ca8af90"
+    },
+    {
+      "path": "results/initial-campaign/reexecutions-2026-02/ecobee-mirai/Cumulative.csv",
+      "bytes": 29370,
+      "sha256": "e3d47a2f5e53949ffd0a4a635b7664dc1c3a19373ec31f2b457c76e43c18a9e7"
+    },
+    {
+      "path": "results/initial-campaign/reexecutions-2026-02/ecobee-mirai/OnOff.csv",
+      "bytes": 29154,
+      "sha256": "41f749cf35afde97aeae444fd4c4c27f6b719bd21e8c31dc2c3aefa8b70dff2a"
+    },
+    {
+      "path": "results/initial-campaign/reexecutions-2026-02/ecobee-mirai/README.md",
+      "bytes": 483,
+      "sha256": "351764968f5832413898ef9f52c6a9c758fe45548aeae00412c8b050ed85b808"
+    },
+    {
+      "path": "results/initial-campaign/reexecutions-2026-02/ecobee-mirai/Scaling.csv",
+      "bytes": 28429,
+      "sha256": "9628db7c66cbc57de15b7ac5c1e530f78699b0dd0aa12f71c9cd68df6931710e"
+    },
+    {
+      "path": "results/initial-campaign/reexecutions-2026-02/ecobee-mirai/sources.json",
+      "bytes": 1024,
+      "sha256": "174244ef68e2f412412c685a36f040935fb654ae649a2583dec28f735f207ee3"
+    },
+    {
+      "path": "results/initial-campaign/reexecutions-2026-02/ecobee-mirai/Sybil.csv",
+      "bytes": 29494,
+      "sha256": "9deaa5c3592da2c175c4ec14b6536bc5d4e1f991beb44b48f95fba008efa9195"
+    },
+    {
+      "path": "results/nbaiot-main/execution/Cumulative_IID.csv",
+      "bytes": 328,
+      "sha256": "db4517a07b1305f6686df30204c22f575b6e5d17a3a646769f80fe136bd1052f"
+    },
+    {
+      "path": "results/nbaiot-main/execution/Cumulative_NonIID_Dirichlet.csv",
+      "bytes": 348,
+      "sha256": "137ddf4c5cd5402427c93215b32b8883b993f4f8ccc0d5ddcc0d559d73b28dcf"
+    },
+    {
+      "path": "results/nbaiot-main/execution/OnOff_IID.csv",
+      "bytes": 329,
+      "sha256": "4c4b74592800a0ebf0eb660dad6a9777797cc331801b6e3545975453e1556831"
+    },
+    {
+      "path": "results/nbaiot-main/execution/OnOff_NonIID_Dirichlet.csv",
+      "bytes": 345,
+      "sha256": "b3491022125a1e450006b7b5ffb3f68325072c4ead33e1688fac06b26a1199f9"
+    },
+    {
+      "path": "results/nbaiot-main/execution/Scaling_IID.csv",
+      "bytes": 337,
+      "sha256": "cd3c7175d69513b31d2f6394fdc6d16cfc02f2ec3fdce58910b54d392dc6dc8e"
+    },
+    {
+      "path": "results/nbaiot-main/execution/Scaling_NonIID_Dirichlet.csv",
+      "bytes": 353,
+      "sha256": "83096edb959694a5394d0e9aa742f0dd059f6be15f1f2f38fd06ab3a43e968b4"
+    },
+    {
+      "path": "results/nbaiot-main/execution/Sybil_IID.csv",
+      "bytes": 330,
+      "sha256": "eee16b60c2ec1e858211c69a68b0a5a5d9d012378a167260aa01623096557b35"
+    },
+    {
+      "path": "results/nbaiot-main/execution/Sybil_NonIID_Dirichlet.csv",
+      "bytes": 346,
+      "sha256": "7743d5813cdbf9451fa85fb665f99436f3203f9abe2cda8afbe872b2e66a6b62"
+    },
+    {
+      "path": "results/nbaiot-main/statistics/descriptive_ci95.csv",
+      "bytes": 80753,
+      "sha256": "eacd308a271c599457b351e007922fbd1193b66e4b6b4c7acde2064bfb3f6963"
+    },
+    {
+      "path": "results/nbaiot-main/statistics/friedman_tests.csv",
+      "bytes": 4155,
+      "sha256": "3b37afc8f5707bbd61cfc2394da02503458182eaabe976a4fd4baa0006764604"
+    },
+    {
+      "path": "results/nbaiot-main/statistics/metrics_by_seed.csv",
+      "bytes": 140925,
+      "sha256": "41aba630a83bf5603625a9f243d7820ef987326f4761a045a9cd2c3ab5f2757c"
+    },
+    {
+      "path": "results/nbaiot-main/statistics/thesis_summary_ci95.csv",
+      "bytes": 63959,
+      "sha256": "af0bd2943b58da17bda30707dd4e91e2d2ae589318355136ff2030c5142f038e"
+    },
+    {
+      "path": "results/nbaiot-main/statistics/wilcoxon_holm_effect_sizes.csv",
+      "bytes": 259086,
+      "sha256": "3c3944e0c4e700c776b9d9da330f66394934891598a76986c70de666c9842501"
+    },
+    {
+      "path": "scripts/verify_integrity.py",
+      "bytes": 733,
+      "sha256": "8a58100e2365be4d3a11b7d28b303e711a2b5b475f71364099254ea771c55fba"
+    }
+  ]
+}

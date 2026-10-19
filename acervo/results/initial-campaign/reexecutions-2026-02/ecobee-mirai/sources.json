@@ -1,0 +1,26 @@
+[
+  {
+    "attack": "OnOff",
+    "url": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/initial-campaign/reexecutions-2026-02/ecobee-mirai/OnOff.csv",
+    "id": "1mTm8qCvXYsqNO7QZA4EkP6c2k-F36O_H",
+    "title": "Raw_Results_OnOff.csv"
+  },
+  {
+    "attack": "Sybil",
+    "url": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/initial-campaign/reexecutions-2026-02/ecobee-mirai/Sybil.csv",
+    "id": "19zZ6U0rKCM-KjnnXLcJQxVJgOplRSZZb",
+    "title": "Raw_Results_Sybil.csv"
+  },
+  {
+    "attack": "Scaling",
+    "url": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/initial-campaign/reexecutions-2026-02/ecobee-mirai/Scaling.csv",
+    "id": "1iRXB6VYWXr9WCncl97R_He1pbWIbhaRA",
+    "title": "Raw_Results_Scaling.csv"
+  },
+  {
+    "attack": "Cumulative",
+    "url": "https://github.com/csai4cps/csai4iot/blob/main/acervo/results/initial-campaign/reexecutions-2026-02/ecobee-mirai/Cumulative.csv",
+    "id": "1Gxa3Dhgf8Ji4Kb0J0iGopLodtyOseDwU",
+    "title": "Raw_Results.csv"
+  }
+]

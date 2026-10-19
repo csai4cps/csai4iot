@@ -1,0 +1,11 @@
+Device_ID,Device_Name,file,rows,status
+4,Philips_B120N10_Baby_Monitor,4.gafgyt.combo.csv,58152,USED
+4,Philips_B120N10_Baby_Monitor,4.gafgyt.junk.csv,28349,USED
+4,Philips_B120N10_Baby_Monitor,4.gafgyt.scan.csv,27859,USED
+4,Philips_B120N10_Baby_Monitor,4.gafgyt.tcp.csv,92581,USED
+4,Philips_B120N10_Baby_Monitor,4.gafgyt.udp.csv,105782,USED
+4,Philips_B120N10_Baby_Monitor,4.mirai.ack.csv,91123,USED
+4,Philips_B120N10_Baby_Monitor,4.mirai.scan.csv,103621,USED
+4,Philips_B120N10_Baby_Monitor,4.mirai.syn.csv,118128,USED
+4,Philips_B120N10_Baby_Monitor,4.mirai.udp.csv,217034,USED
+4,Philips_B120N10_Baby_Monitor,4.mirai.udpplain.csv,80808,USED

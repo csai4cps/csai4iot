@@ -1,0 +1,11 @@
+device,archive,csv,rows
+Philips_B120N10_Baby_Monitor,gafgyt_attacks.rar,combo.csv,58152
+Philips_B120N10_Baby_Monitor,gafgyt_attacks.rar,junk.csv,28349
+Philips_B120N10_Baby_Monitor,gafgyt_attacks.rar,scan.csv,27859
+Philips_B120N10_Baby_Monitor,gafgyt_attacks.rar,tcp.csv,92581
+Philips_B120N10_Baby_Monitor,gafgyt_attacks.rar,udp.csv,105782
+Philips_B120N10_Baby_Monitor,mirai_attacks.rar,ack.csv,91123
+Philips_B120N10_Baby_Monitor,mirai_attacks.rar,scan.csv,103621
+Philips_B120N10_Baby_Monitor,mirai_attacks.rar,syn.csv,118128
+Philips_B120N10_Baby_Monitor,mirai_attacks.rar,udp.csv,217034
+Philips_B120N10_Baby_Monitor,mirai_attacks.rar,udpplain.csv,80808

@@ -1,0 +1,2 @@
+input_file,original_rows,original_columns,rows_after_label_cleaning,duplicates_removed,features_final,constant_columns_removed,original_benign,original_attack,final_1_3_rows,final_1_3_benign,final_1_3_attack,augmented_rows,augmented_benign,augmented_attack,leakage_columns_removed,recommended_primary_file,recommended_complementary_file
+dataset_c.csv,2290,9,2290,0,21,4,85,2205,340,85,255,1200,300,900,"dataset_source, label, Label",dataset_c_benchmark_binary_1_3.csv,dataset_c_benchmark_binary_1_3_augmented.csv

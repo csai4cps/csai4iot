@@ -1,0 +1,78 @@
+{
+  "dataset": "Dataset_C_MQTT_IoT_Flood",
+  "source": {
+    "id": "10218OleOrxxG3z2edOOO_B3MJojSGNU2",
+    "name": "Dataset_C_Sem_Aumento_340.csv",
+    "modifiedTime": "2026-10-03T18:27:07.573Z",
+    "md5Checksum": "0a97cab6ac86044b6ebd28e0508e77fe",
+    "size": "65291"
+  },
+  "sha256": "3c4d626a44580b20ce3bdfad3b6156363f72f8bde7034f1522099daf7b4f054e",
+  "rows": 340,
+  "synthetic_rows_excluded": 0,
+  "duplicates_removed": 0,
+  "features": [
+    "iat_ms",
+    "temperature",
+    "humidity",
+    "pressure",
+    "rssi",
+    "topic_iot/card",
+    "topic_sensores/camera",
+    "iat_sec",
+    "msg_rate_per_sec",
+    "log_iat_ms",
+    "is_fast_message",
+    "is_very_fast_message",
+    "is_slow_message",
+    "temp_humidity_ratio",
+    "temp_humidity_product",
+    "pressure_temp_ratio",
+    "rssi_abs",
+    "topic_card_only",
+    "topic_camera_only",
+    "rate_signal_interaction",
+    "rate_topic_interaction"
+  ],
+  "seeds": [
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52
+  ],
+  "rounds": 100,
+  "clients": 10,
+  "strategies": [
+    "FedAvg",
+    "Krum",
+    "FLAME",
+    "FLTrust",
+    "Adaptive_Ultimate",
+    "Adaptive_FixedCircuitBreaker",
+    "Adaptive_NoTemporalMemory",
+    "Adaptive_NoAdaptiveWeighting",
+    "Adaptive_NoCircuitBreaker"
+  ],
+  "attacks": [
+    "Cumulative",
+    "Scaling",
+    "Sybil",
+    "OnOff"
+  ],
+  "partitions": [
+    "IID",
+    "NonIID_Dirichlet"
+  ],
+  "tau": 0.05,
+  "split": "stratified-row 80/10/10",
+  "viability": "READY_FOR_COMPLEMENTARY_BENCHMARK",
+  "limitation": "CSV curado sem IDs de captura/sessão: generalização entre capturas não validada.",
+  "tau_source": "0.05 congelado no benchmark N-BaIoT; sem tuning no Dataset C",
+  "source_curation_report_id": "1yvlW9nnAD0gVaBTLKIFXnCiBBKTCPIwk"
+}

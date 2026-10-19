@@ -1,0 +1,11 @@
+Device_ID,Device_Name,file,rows,status
+9,SimpleHome_XCS7_1003_WHT_Security_Camera,9.gafgyt.combo.csv,59398,USED
+9,SimpleHome_XCS7_1003_WHT_Security_Camera,9.gafgyt.junk.csv,27413,USED
+9,SimpleHome_XCS7_1003_WHT_Security_Camera,9.gafgyt.scan.csv,28572,USED
+9,SimpleHome_XCS7_1003_WHT_Security_Camera,9.gafgyt.tcp.csv,98075,USED
+9,SimpleHome_XCS7_1003_WHT_Security_Camera,9.gafgyt.udp.csv,102980,USED
+9,SimpleHome_XCS7_1003_WHT_Security_Camera,9.mirai.ack.csv,107187,USED
+9,SimpleHome_XCS7_1003_WHT_Security_Camera,9.mirai.scan.csv,43674,USED
+9,SimpleHome_XCS7_1003_WHT_Security_Camera,9.mirai.syn.csv,122479,USED
+9,SimpleHome_XCS7_1003_WHT_Security_Camera,9.mirai.udp.csv,157084,USED
+9,SimpleHome_XCS7_1003_WHT_Security_Camera,9.mirai.udpplain.csv,84436,USED

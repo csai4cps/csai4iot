@@ -1,0 +1,11 @@
+device,archive,csv,rows
+Ecobee_Thermostat,gafgyt_attacks.rar,combo.csv,53012
+Ecobee_Thermostat,gafgyt_attacks.rar,junk.csv,30312
+Ecobee_Thermostat,gafgyt_attacks.rar,scan.csv,27494
+Ecobee_Thermostat,gafgyt_attacks.rar,tcp.csv,95021
+Ecobee_Thermostat,gafgyt_attacks.rar,udp.csv,104791
+Ecobee_Thermostat,mirai_attacks.rar,ack.csv,113285
+Ecobee_Thermostat,mirai_attacks.rar,scan.csv,43192
+Ecobee_Thermostat,mirai_attacks.rar,syn.csv,116807
+Ecobee_Thermostat,mirai_attacks.rar,udp.csv,151481
+Ecobee_Thermostat,mirai_attacks.rar,udpplain.csv,87368

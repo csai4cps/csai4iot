@@ -1,0 +1,11 @@
+device,archive,csv,rows
+Danmini_Doorbell,gafgyt_attacks.rar,combo.csv,59718
+Danmini_Doorbell,gafgyt_attacks.rar,junk.csv,29068
+Danmini_Doorbell,gafgyt_attacks.rar,scan.csv,29849
+Danmini_Doorbell,gafgyt_attacks.rar,tcp.csv,92141
+Danmini_Doorbell,gafgyt_attacks.rar,udp.csv,105874
+Danmini_Doorbell,mirai_attacks.rar,ack.csv,102195
+Danmini_Doorbell,mirai_attacks.rar,scan.csv,107685
+Danmini_Doorbell,mirai_attacks.rar,syn.csv,122573
+Danmini_Doorbell,mirai_attacks.rar,udp.csv,237665
+Danmini_Doorbell,mirai_attacks.rar,udpplain.csv,81982

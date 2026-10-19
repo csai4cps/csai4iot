@@ -1,0 +1,11 @@
+Device_ID,Device_Name,file,rows,status
+6,Provision_PT_838_Security_Camera,6.gafgyt.combo.csv,57530,USED
+6,Provision_PT_838_Security_Camera,6.gafgyt.junk.csv,29068,USED
+6,Provision_PT_838_Security_Camera,6.gafgyt.scan.csv,28397,USED
+6,Provision_PT_838_Security_Camera,6.gafgyt.tcp.csv,89387,USED
+6,Provision_PT_838_Security_Camera,6.gafgyt.udp.csv,104658,USED
+6,Provision_PT_838_Security_Camera,6.mirai.ack.csv,57997,USED
+6,Provision_PT_838_Security_Camera,6.mirai.scan.csv,97096,USED
+6,Provision_PT_838_Security_Camera,6.mirai.syn.csv,61851,USED
+6,Provision_PT_838_Security_Camera,6.mirai.udp.csv,158608,USED
+6,Provision_PT_838_Security_Camera,6.mirai.udpplain.csv,53785,USED
